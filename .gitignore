@@ -5,3 +5,4 @@ D496 - Introduction to Data Science/Analyze AB Test Results/ab_data.csv
 D496 - Introduction to Data Science/Intro to Data Analysis Project - Investigate a Dataset/tmdb-movies.csv
 *.csv
 *.zip
+*.parquet
