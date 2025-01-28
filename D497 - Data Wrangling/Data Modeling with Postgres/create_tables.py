@@ -1,7 +1,6 @@
 import psycopg2
 from sql_queries import create_table_queries, drop_table_queries
 
-
 def create_database():
     """
     - Creates and connects to the sparkifydb
@@ -18,27 +17,35 @@ def create_database():
     cur.execute("CREATE DATABASE sparkifydb WITH ENCODING 'utf8' TEMPLATE template0")
 
     # close connection to default database
-    conn.close()    
+    conn.close()
     
     # connect to sparkify database
     conn = psycopg2.connect("host=127.0.0.1 dbname=sparkifydb user=student password=student")
     cur = conn.cursor()
     
-    return cur, conn
+    return conn, cur
 
 
-def drop_tables(cur, conn):
+def drop_tables(conn, cur):
     """
     Drops each table using the queries in `drop_table_queries` list.
+    
+    Parameters:
+        conn: psycopg2 connection object
+        cur: psycopg2 cursor object
     """
     for query in drop_table_queries:
         cur.execute(query)
         conn.commit()
 
 
-def create_tables(cur, conn):
+def create_tables(conn, cur):
     """
-    Creates each table using the queries in `create_table_queries` list. 
+    Creates each table using the queries in `create_table_queries` list.
+    
+    Parameters:
+        conn: psycopg2 connection object
+        cur: psycopg2 cursor object
     """
     for query in create_table_queries:
         cur.execute(query)
@@ -47,22 +54,27 @@ def create_tables(cur, conn):
 
 def main():
     """
-    - Drops (if exists) and Creates the sparkify database. 
+    - Drops (if exists) and Creates the sparkify database.
     
     - Establishes connection with the sparkify database and gets
-    cursor to it.  
+      a cursor to it.
     
-    - Drops all the tables.  
+    - Drops all the tables.
     
-    - Creates all tables needed. 
+    - Creates all tables needed.
     
-    - Finally, closes the connection. 
+    - Finally, closes the connection.
     """
-    cur, conn = create_database()
+    # Create sparkifydb and get connection + cursor
+    conn, cur = create_database()
     
-    drop_tables(cur, conn)
-    create_tables(cur, conn)
+    # Drop all existing tables
+    drop_tables(conn, cur)
+    
+    # Create all necessary tables
+    create_tables(conn, cur)
 
+    # Close connection
     conn.close()
 
 
