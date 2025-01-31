@@ -46,7 +46,7 @@ def process_log_file(cur, filepath):
         'start_time': df['ts'],
         'hour': df['ts'].dt.hour,
         'day': df['ts'].dt.day,
-        'week': df['ts'].dt.isocalendar().week,
+        'week': df['ts'].dt.week.astype(int),
         'month': df['ts'].dt.month,
         'year': df['ts'].dt.year,
         'weekday': df['ts'].dt.weekday
