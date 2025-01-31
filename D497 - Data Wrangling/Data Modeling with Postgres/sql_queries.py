@@ -1,28 +1,27 @@
 # DROP TABLES
+
 songplay_table_drop = "DROP TABLE IF EXISTS songplays;"
 user_table_drop = "DROP TABLE IF EXISTS users;"
 song_table_drop = "DROP TABLE IF EXISTS songs;"
 artist_table_drop = "DROP TABLE IF EXISTS artists;"
 time_table_drop = "DROP TABLE IF EXISTS time;"
 
-# CREATE TABLES
+# CREATE TABLES (No Foreign Key Constraints)
 
-# Fact Table
 songplay_table_create = ("""
 CREATE TABLE IF NOT EXISTS songplays (
     songplay_id SERIAL PRIMARY KEY,
-    start_time TIMESTAMP NOT NULL REFERENCES time(start_time),
-    user_id INT NOT NULL REFERENCES users(user_id),
+    start_time TIMESTAMP NOT NULL,
+    user_id INT NOT NULL,
     level VARCHAR,
-    song_id VARCHAR REFERENCES songs(song_id),
-    artist_id VARCHAR REFERENCES artists(artist_id),
+    song_id VARCHAR,
+    artist_id VARCHAR,
     session_id INT,
     location VARCHAR,
     user_agent VARCHAR
 );
 """)
 
-# Dimension Tables
 user_table_create = ("""
 CREATE TABLE IF NOT EXISTS users (
     user_id INT PRIMARY KEY,
@@ -37,7 +36,7 @@ song_table_create = ("""
 CREATE TABLE IF NOT EXISTS songs (
     song_id VARCHAR PRIMARY KEY,
     title VARCHAR NOT NULL,
-    artist_id VARCHAR NOT NULL REFERENCES artists(artist_id),
+    artist_id VARCHAR NOT NULL,
     year INT,
     duration FLOAT
 );
@@ -137,6 +136,7 @@ DO NOTHING;
 """)
 
 # FIND SONGS
+
 song_select = ("""
 SELECT s.song_id, a.artist_id
 FROM songs AS s
@@ -147,12 +147,13 @@ WHERE s.title = %s
 """)
 
 # QUERY LISTS
+
 create_table_queries = [
-    time_table_create,  # Create `time` table first (referenced by songplays)
-    user_table_create,  # Then create `users`
-    artist_table_create,  # Then `artists`
-    song_table_create,  # Then `songs` (after `artists`)
-    songplay_table_create  # Finally, create the `songplays` fact table
+    song_table_create,  # Load songs first
+    artist_table_create,
+    time_table_create,
+    user_table_create,
+    songplay_table_create  # Load songplays last
 ]
 
 drop_table_queries = [
