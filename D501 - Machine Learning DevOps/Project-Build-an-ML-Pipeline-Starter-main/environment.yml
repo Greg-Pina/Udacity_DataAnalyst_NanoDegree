@@ -1,4 +1,4 @@
-name: nyc_airbnb_dev
+name: udacity
 channels:
   - conda-forge
   - defaults
