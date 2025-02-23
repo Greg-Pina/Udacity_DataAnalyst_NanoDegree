@@ -3,9 +3,9 @@
 # D497 - Data Wrangling/Real World Data Wrangling with Python/9000-tickers-stock-data/nasdaq_data.csv
 # D496 - Introduction to Data Science/Analyze AB Test Results/ab_data.csv
 # D496 - Introduction to Data Science/Intro to Data Analysis Project - Investigate a Dataset/tmdb-movies.csv
-# *.csv
-# *.zip
-# *.parquet
+*.csv
+*.zip
+*.parquet
 AZDIAS_Feature_Summary.csv
 Udacity_AZDIAS_Subset.csv
 Udacity_CUSTOMERS_Subset.csv
