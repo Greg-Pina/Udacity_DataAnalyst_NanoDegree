@@ -5,6 +5,7 @@
 # D496 - Introduction to Data Science/Intro to Data Analysis Project - Investigate a Dataset/tmdb-movies.csv
 *.csv
 *.zip
+*.xlsx
 *.parquet
 AZDIAS_Feature_Summary.csv
 Udacity_AZDIAS_Subset.csv
