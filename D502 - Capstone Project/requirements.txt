@@ -1,0 +1,16 @@
+--find-links ./wheels
+
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+requests
+openpyxl
+kagglehub
+yfinance
+kaggle
+python-dotenv
+tfds-nightly
+tensorflow
+beaapi
