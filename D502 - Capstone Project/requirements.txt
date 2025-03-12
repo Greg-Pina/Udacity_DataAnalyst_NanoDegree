@@ -1,15 +1,18 @@
 --find-links ./wheels
 
+typing-extensions
 pandas
 numpy
 matplotlib
 seaborn
 statsmodels
+nbconvert
+pandoc
 requests
 openpyxl
 kagglehub
 yfinance
-kaggle
+kaggle==1.6.17
 python-dotenv
 tfds-nightly
 tensorflow
