@@ -14,7 +14,7 @@ requests
 openpyxl
 kagglehub
 yfinance
-kaggle==1.6.17
+kaggle
 python-dotenv
 tfds-nightly
 tensorflow
