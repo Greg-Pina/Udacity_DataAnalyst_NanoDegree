@@ -1,3 +1,1585 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9aa2600128bd777d7a396f72eb6de05401cb036fd5c78f424121665d5d816795
-size 93054
+TableID,Frequency,Year,Quarter,Industry,IndustrYDescription,DataValue,NoteRef
+6,A,2020,2020,11,Taxes on production and imports less subsidies,-34.9,6
+6,A,2020,2020,11,Compensation of employees,60.7,6
+6,A,2020,2020,11,"Agriculture, forestry, fishing, and hunting",162.9,6
+6,A,2020,2020,11,Gross operating surplus,137.1,6
+6,A,2020,2020,111CA,Taxes on production and imports less subsidies,-34.7,6
+6,A,2020,2020,111CA,Compensation of employees,30.6,6
+6,A,2020,2020,111CA,Farms,119.0,6
+6,A,2020,2020,111CA,Gross operating surplus,123.1,6
+6,A,2020,2020,113FF,Gross operating surplus,14.0,6
+6,A,2020,2020,113FF,Taxes on production and imports less subsidies,-0.2,6
+6,A,2020,2020,113FF,Compensation of employees,30.1,6
+6,A,2020,2020,113FF,"Forestry, fishing, and related activities",43.9,6
+6,A,2020,2020,21,Taxes on production and imports less subsidies,36.3,6
+6,A,2020,2020,21,Compensation of employees,70.2,6
+6,A,2020,2020,21,Mining,201.9,6
+6,A,2020,2020,21,Gross operating surplus,95.5,6
+6,A,2020,2020,211,Taxes on production and imports less subsidies,32.7,6
+6,A,2020,2020,211,Compensation of employees,27.6,6
+6,A,2020,2020,211,Oil and gas extraction,103.3,6
+6,A,2020,2020,211,Gross operating surplus,42.9,6
+6,A,2020,2020,212,Taxes on production and imports less subsidies,4.3,6
+6,A,2020,2020,212,Compensation of employees,17.5,6
+6,A,2020,2020,212,"Mining, except oil and gas",57.2,6
+6,A,2020,2020,212,Gross operating surplus,35.4,6
+6,A,2020,2020,213,Gross operating surplus,17.1,6
+6,A,2020,2020,213,Taxes on production and imports less subsidies,-0.7,6
+6,A,2020,2020,213,Compensation of employees,25.0,6
+6,A,2020,2020,213,Support activities for mining,41.4,6
+6,A,2020,2020,22,Taxes on production and imports less subsidies,66.2,6
+6,A,2020,2020,22,Compensation of employees,93.5,6
+6,A,2020,2020,22,Utilities,345.7,6
+6,A,2020,2020,22,Gross operating surplus,186.0,6
+6,A,2020,2020,23,Gross operating surplus,414.4,6
+6,A,2020,2020,23,Construction,957.8,6
+6,A,2020,2020,23,Compensation of employees,597.8,6
+6,A,2020,2020,23,Taxes on production and imports less subsidies,-54.4,6
+6,A,2020,2020,311FT,Taxes on production and imports less subsidies,21.4,6
+6,A,2020,2020,311FT,Compensation of employees,127.6,6
+6,A,2020,2020,311FT,Food and beverage and tobacco products,289.2,6
+6,A,2020,2020,311FT,Gross operating surplus,140.2,6
+6,A,2020,2020,313TT,Taxes on production and imports less subsidies,-0.4,6
+6,A,2020,2020,313TT,Compensation of employees,11.5,6
+6,A,2020,2020,313TT,Textile mills and textile product mills,15.9,6
+6,A,2020,2020,313TT,Gross operating surplus,4.7,6
+6,A,2020,2020,315AL,Taxes on production and imports less subsidies,-0.8,6
+6,A,2020,2020,315AL,Compensation of employees,6.7,6
+6,A,2020,2020,315AL,Apparel and leather and allied products,9.5,6
+6,A,2020,2020,315AL,Gross operating surplus,3.5,6
+6,A,2020,2020,31G,Taxes on production and imports less subsidies,32.9,6
+6,A,2020,2020,31G,Compensation of employees,1115.1,6
+6,A,2020,2020,31G,Manufacturing,2149.5,6
+6,A,2020,2020,31G,Gross operating surplus,1001.6,6
+6,A,2020,2020,31ND,Taxes on production and imports less subsidies,38.5,6
+6,A,2020,2020,31ND,Gross operating surplus,523.8,6
+6,A,2020,2020,31ND,Nondurable goods,949.3,6
+6,A,2020,2020,31ND,Compensation of employees,387.1,6
+6,A,2020,2020,321,Taxes on production and imports less subsidies,-1.1,6
+6,A,2020,2020,321,Gross operating surplus,18.6,6
+6,A,2020,2020,321,Wood products,42.9,6
+6,A,2020,2020,321,Compensation of employees,25.4,6
+6,A,2020,2020,322,Gross operating surplus,32.1,6
+6,A,2020,2020,322,Paper products,65.0,6
+6,A,2020,2020,322,Compensation of employees,32.0,6
+6,A,2020,2020,322,Taxes on production and imports less subsidies,1.0,6
+6,A,2020,2020,323,Gross operating surplus,13.8,6
+6,A,2020,2020,323,Printing and related support activities,36.5,6
+6,A,2020,2020,323,Compensation of employees,24.4,6
+6,A,2020,2020,323,Taxes on production and imports less subsidies,-1.8,6
+6,A,2020,2020,324,Gross operating surplus,36.6,6
+6,A,2020,2020,324,Petroleum and coal products,60.5,6
+6,A,2020,2020,324,Compensation of employees,20.0,6
+6,A,2020,2020,324,Taxes on production and imports less subsidies,3.8,6
+6,A,2020,2020,325,Taxes on production and imports less subsidies,15.7,6
+6,A,2020,2020,325,Gross operating surplus,262.6,6
+6,A,2020,2020,325,Chemical products,392.5,6
+6,A,2020,2020,325,Compensation of employees,114.2,6
+6,A,2020,2020,326,Taxes on production and imports less subsidies,-0.5,6
+6,A,2020,2020,326,Gross operating surplus,30.2,6
+6,A,2020,2020,326,Plastics and rubber products,80.3,6
+6,A,2020,2020,326,Compensation of employees,50.6,6
+6,A,2020,2020,327,Gross operating surplus,32.6,6
+6,A,2020,2020,327,Nonmetallic mineral products,63.8,6
+6,A,2020,2020,327,Compensation of employees,31.4,6
+6,A,2020,2020,327,Taxes on production and imports less subsidies,-0.2,6
+6,A,2020,2020,331,Compensation of employees,30.9,6
+6,A,2020,2020,331,Primary metals,56.2,6
+6,A,2020,2020,331,Gross operating surplus,24.1,6
+6,A,2020,2020,331,Taxes on production and imports less subsidies,1.2,6
+6,A,2020,2020,332,Compensation of employees,101.7,6
+6,A,2020,2020,332,Fabricated metal products,148.2,6
+6,A,2020,2020,332,Gross operating surplus,52.9,6
+6,A,2020,2020,332,Taxes on production and imports less subsidies,-6.4,6
+6,A,2020,2020,333,Compensation of employees,96.1,6
+6,A,2020,2020,333,Machinery,150.0,6
+6,A,2020,2020,333,Taxes on production and imports less subsidies,-2.9,6
+6,A,2020,2020,333,Gross operating surplus,56.8,6
+6,A,2020,2020,334,Taxes on production and imports less subsidies,5.7,6
+6,A,2020,2020,334,Compensation of employees,169.9,6
+6,A,2020,2020,334,Computer and electronic products,273.6,6
+6,A,2020,2020,334,Gross operating surplus,98.0,6
+6,A,2020,2020,335,Compensation of employees,37.4,6
+6,A,2020,2020,335,"Electrical equipment, appliances, and components",57.7,6
+6,A,2020,2020,335,Taxes on production and imports less subsidies,-0.6,6
+6,A,2020,2020,335,Gross operating surplus,20.9,6
+6,A,2020,2020,3361MV,Taxes on production and imports less subsidies,1.6,6
+6,A,2020,2020,3361MV,Compensation of employees,72.9,6
+6,A,2020,2020,3361MV,"Motor vehicles, bodies and trailers, and parts",142.6,6
+6,A,2020,2020,3361MV,Gross operating surplus,68.1,6
+6,A,2020,2020,3364OT,Gross operating surplus,58.4,6
+6,A,2020,2020,3364OT,Taxes on production and imports less subsidies,1.1,6
+6,A,2020,2020,3364OT,Compensation of employees,84.3,6
+6,A,2020,2020,3364OT,Other transportation equipment,143.7,6
+6,A,2020,2020,337,Gross operating surplus,9.4,6
+6,A,2020,2020,337,Taxes on production and imports less subsidies,-1.7,6
+6,A,2020,2020,337,Compensation of employees,21.8,6
+6,A,2020,2020,337,Furniture and related products,29.5,6
+6,A,2020,2020,339,Gross operating surplus,38.0,6
+6,A,2020,2020,339,Miscellaneous manufacturing,92.0,6
+6,A,2020,2020,339,Compensation of employees,56.1,6
+6,A,2020,2020,339,Taxes on production and imports less subsidies,-2.2,6
+6,A,2020,2020,33DG,Taxes on production and imports less subsidies,-5.6,6
+6,A,2020,2020,33DG,Gross operating surplus,477.8,6
+6,A,2020,2020,33DG,Durable goods,1200.2,6
+6,A,2020,2020,33DG,Compensation of employees,728.0,6
+6,A,2020,2020,42,Gross operating surplus,509.7,6
+6,A,2020,2020,42,Wholesale trade,1301.8,6
+6,A,2020,2020,42,Compensation of employees,562.3,6
+6,A,2020,2020,42,Taxes on production and imports less subsidies,229.7,6
+6,A,2020,2020,441,Motor vehicle and parts dealers,255.3,6
+6,A,2020,2020,441,Compensation of employees,128.4,6
+6,A,2020,2020,441,Taxes on production and imports less subsidies,36.8,6
+6,A,2020,2020,441,Gross operating surplus,90.1,6
+6,A,2020,2020,445,Compensation of employees,113.6,6
+6,A,2020,2020,445,Food and beverage stores,191.2,6
+6,A,2020,2020,445,Gross operating surplus,55.2,6
+6,A,2020,2020,445,Taxes on production and imports less subsidies,22.4,6
+6,A,2020,2020,44RT,Taxes on production and imports less subsidies,209.6,6
+6,A,2020,2020,44RT,Gross operating surplus,454.2,6
+6,A,2020,2020,44RT,Retail trade,1333.1,6
+6,A,2020,2020,44RT,Compensation of employees,669.2,6
+6,A,2020,2020,452,Taxes on production and imports less subsidies,42.6,6
+6,A,2020,2020,452,Gross operating surplus,19.5,6
+6,A,2020,2020,452,General merchandise stores,162.2,6
+6,A,2020,2020,452,Compensation of employees,100.2,6
+6,A,2020,2020,481,Taxes on production and imports less subsidies,-5.8,6
+6,A,2020,2020,481,Gross operating surplus,12.2,6
+6,A,2020,2020,481,Air transportation,63.8,6
+6,A,2020,2020,481,Compensation of employees,57.4,6
+6,A,2020,2020,482,Gross operating surplus,23.3,6
+6,A,2020,2020,482,Rail transportation,41.8,6
+6,A,2020,2020,482,Compensation of employees,20.3,6
+6,A,2020,2020,482,Taxes on production and imports less subsidies,-1.8,6
+6,A,2020,2020,483,Compensation of employees,7.2,6
+6,A,2020,2020,483,Water transportation,12.8,6
+6,A,2020,2020,483,Gross operating surplus,4.9,6
+6,A,2020,2020,483,Taxes on production and imports less subsidies,0.7,6
+6,A,2020,2020,484,Compensation of employees,109.3,6
+6,A,2020,2020,484,Truck transportation,196.6,6
+6,A,2020,2020,484,Gross operating surplus,91.6,6
+6,A,2020,2020,484,Taxes on production and imports less subsidies,-4.3,6
+6,A,2020,2020,485,Compensation of employees,22.5,6
+6,A,2020,2020,485,Transit and ground passenger transportation,40.7,6
+6,A,2020,2020,485,Gross operating surplus,17.8,6
+6,A,2020,2020,485,Taxes on production and imports less subsidies,0.5,6
+6,A,2020,2020,486,Compensation of employees,8.5,6
+6,A,2020,2020,486,Pipeline transportation,38.5,6
+6,A,2020,2020,486,Gross operating surplus,26.1,6
+6,A,2020,2020,486,Taxes on production and imports less subsidies,3.9,6
+6,A,2020,2020,487OS,Gross operating surplus,56.6,6
+6,A,2020,2020,487OS,Taxes on production and imports less subsidies,-2.0,6
+6,A,2020,2020,487OS,Compensation of employees,108.2,6
+6,A,2020,2020,487OS,Other transportation and support activities,162.9,6
+6,A,2020,2020,48TW,Taxes on production and imports less subsidies,-9.0,6
+6,A,2020,2020,48TW,Compensation of employees,410.2,6
+6,A,2020,2020,48TW,Transportation and warehousing,638.7,6
+6,A,2020,2020,48TW,Gross operating surplus,237.5,6
+6,A,2020,2020,493,Taxes on production and imports less subsidies,-0.1,6
+6,A,2020,2020,493,Compensation of employees,76.9,6
+6,A,2020,2020,493,Warehousing and storage,81.6,6
+6,A,2020,2020,493,Gross operating surplus,4.8,6
+6,A,2020,2020,4A0,Gross operating surplus,289.4,6
+6,A,2020,2020,4A0,Other retail,724.4,6
+6,A,2020,2020,4A0,Compensation of employees,327.1,6
+6,A,2020,2020,4A0,Taxes on production and imports less subsidies,107.9,6
+6,A,2020,2020,51,Taxes on production and imports less subsidies,53.9,6
+6,A,2020,2020,51,Gross operating surplus,701.7,6
+6,A,2020,2020,51,Information,1181.3,6
+6,A,2020,2020,51,Compensation of employees,425.7,6
+6,A,2020,2020,511,Gross operating surplus,167.8,6
+6,A,2020,2020,511,"Publishing industries, except internet (includes software)",303.1,6
+6,A,2020,2020,511,Compensation of employees,131.8,6
+6,A,2020,2020,511,Taxes on production and imports less subsidies,3.5,6
+6,A,2020,2020,512,Gross operating surplus,38.8,6
+6,A,2020,2020,512,Motion picture and sound recording industries,75.8,6
+6,A,2020,2020,512,Compensation of employees,33.3,6
+6,A,2020,2020,512,Taxes on production and imports less subsidies,3.7,6
+6,A,2020,2020,513,Gross operating surplus,331.1,6
+6,A,2020,2020,513,Broadcasting and telecommunications,487.1,6
+6,A,2020,2020,513,Compensation of employees,113.4,6
+6,A,2020,2020,513,Taxes on production and imports less subsidies,42.6,6
+6,A,2020,2020,514,"Data processing, internet publishing, and other information services",315.3,6
+6,A,2020,2020,514,Compensation of employees,147.1,6
+6,A,2020,2020,514,Taxes on production and imports less subsidies,4.1,6
+6,A,2020,2020,514,Gross operating surplus,164.0,6
+6,A,2020,2020,52,Finance and insurance,1718.2,6
+6,A,2020,2020,52,Compensation of employees,912.3,6
+6,A,2020,2020,52,Gross operating surplus,739.6,6
+6,A,2020,2020,52,Taxes on production and imports less subsidies,66.3,6
+6,A,2020,2020,521CI,Taxes on production and imports less subsidies,18.8,6
+6,A,2020,2020,521CI,Gross operating surplus,434.7,6
+6,A,2020,2020,521CI,"Federal Reserve banks, credit intermediation, and related activities",772.8,6
+6,A,2020,2020,521CI,Compensation of employees,319.3,6
+6,A,2020,2020,523,Taxes on production and imports less subsidies,3.0,6
+6,A,2020,2020,523,Gross operating surplus,33.4,6
+6,A,2020,2020,523,"Securities, commodity contracts, and investments",310.0,6
+6,A,2020,2020,523,Compensation of employees,273.7,6
+6,A,2020,2020,524,Gross operating surplus,274.1,6
+6,A,2020,2020,524,Insurance carriers and related activities,634.3,6
+6,A,2020,2020,524,Compensation of employees,315.9,6
+6,A,2020,2020,524,Taxes on production and imports less subsidies,44.3,6
+6,A,2020,2020,525,Compensation of employees,3.4,6
+6,A,2020,2020,525,"Funds, trusts, and other financial vehicles",1.1,6
+6,A,2020,2020,525,Gross operating surplus,-2.6,6
+6,A,2020,2020,525,Taxes on production and imports less subsidies,0.3,6
+6,A,2020,2020,53,Compensation of employees,169.3,6
+6,A,2020,2020,53,Real estate and rental and leasing,2910.6,6
+6,A,2020,2020,53,Gross operating surplus,2442.0,6
+6,A,2020,2020,53,Taxes on production and imports less subsidies,299.2,6
+6,A,2020,2020,531,Compensation of employees,133.0,6
+6,A,2020,2020,531,Real estate,2665.6,6
+6,A,2020,2020,531,Gross operating surplus,2252.9,6
+6,A,2020,2020,531,Taxes on production and imports less subsidies,279.7,6
+6,A,2020,2020,532RL,Taxes on production and imports less subsidies,19.5,6
+6,A,2020,2020,532RL,Compensation of employees,36.4,6
+6,A,2020,2020,532RL,Rental and leasing services and lessors of intangible assets,245.0,6
+6,A,2020,2020,532RL,Gross operating surplus,189.1,6
+6,A,2020,2020,54,Compensation of employees,1178.4,6
+6,A,2020,2020,54,Taxes on production and imports less subsidies,-21.9,6
+6,A,2020,2020,54,"Professional, scientific, and technical services",1673.3,6
+6,A,2020,2020,54,Gross operating surplus,516.9,6
+6,A,2020,2020,5411,Taxes on production and imports less subsidies,6.4,6
+6,A,2020,2020,5411,Compensation of employees,146.8,6
+6,A,2020,2020,5411,Legal services,288.5,6
+6,A,2020,2020,5411,Gross operating surplus,135.3,6
+6,A,2020,2020,5412OP,Taxes on production and imports less subsidies,-25.5,6
+6,A,2020,2020,5412OP,Compensation of employees,704.2,6
+6,A,2020,2020,5412OP,"Miscellaneous professional, scientific, and technical services",991.5,6
+6,A,2020,2020,5412OP,Gross operating surplus,312.8,6
+6,A,2020,2020,5415,Compensation of employees,327.4,6
+6,A,2020,2020,5415,Gross operating surplus,68.8,6
+6,A,2020,2020,5415,Computer systems design and related services,393.4,6
+6,A,2020,2020,5415,Taxes on production and imports less subsidies,-2.8,6
+6,A,2020,2020,55,Taxes on production and imports less subsidies,8.3,6
+6,A,2020,2020,55,Gross operating surplus,38.6,6
+6,A,2020,2020,55,Management of companies and enterprises,403.9,6
+6,A,2020,2020,55,Compensation of employees,357.0,6
+6,A,2020,2020,56,Taxes on production and imports less subsidies,-12.1,6
+6,A,2020,2020,56,Gross operating surplus,175.2,6
+6,A,2020,2020,56,Administrative and waste management services,648.9,6
+6,A,2020,2020,56,Compensation of employees,485.8,6
+6,A,2020,2020,561,Gross operating surplus,151.6,6
+6,A,2020,2020,561,Administrative and support services,588.1,6
+6,A,2020,2020,561,Compensation of employees,450.4,6
+6,A,2020,2020,561,Taxes on production and imports less subsidies,-13.9,6
+6,A,2020,2020,562,Compensation of employees,35.4,6
+6,A,2020,2020,562,Waste management and remediation services,60.9,6
+6,A,2020,2020,562,Gross operating surplus,23.6,6
+6,A,2020,2020,562,Taxes on production and imports less subsidies,1.8,6
+6,A,2020,2020,6,Taxes on production and imports less subsidies,-53.6,6
+6,A,2020,2020,6,Compensation of employees,1577.6,6
+6,A,2020,2020,6,"Educational services, health care, and social assistance",1870.0,6
+6,A,2020,2020,6,Gross operating surplus,346.0,6
+6,A,2020,2020,61,Compensation of employees,215.5,6
+6,A,2020,2020,61,Educational services,255.5,6
+6,A,2020,2020,61,Taxes on production and imports less subsidies,5.6,6
+6,A,2020,2020,61,Gross operating surplus,34.4,6
+6,A,2020,2020,62,Compensation of employees,1362.1,6
+6,A,2020,2020,62,Taxes on production and imports less subsidies,-59.2,6
+6,A,2020,2020,62,Health care and social assistance,1614.6,6
+6,A,2020,2020,62,Gross operating surplus,311.7,6
+6,A,2020,2020,621,Ambulatory health care services,762.2,6
+6,A,2020,2020,621,Compensation of employees,620.5,6
+6,A,2020,2020,621,Taxes on production and imports less subsidies,-55.6,6
+6,A,2020,2020,621,Gross operating surplus,197.2,6
+6,A,2020,2020,622,Taxes on production and imports less subsidies,4.7,6
+6,A,2020,2020,622,Compensation of employees,445.4,6
+6,A,2020,2020,622,Hospitals,538.4,6
+6,A,2020,2020,622,Gross operating surplus,88.2,6
+6,A,2020,2020,623,Taxes on production and imports less subsidies,-3.1,6
+6,A,2020,2020,623,Compensation of employees,156.8,6
+6,A,2020,2020,623,Nursing and residential care facilities,164.6,6
+6,A,2020,2020,623,Gross operating surplus,10.8,6
+6,A,2020,2020,624,Gross operating surplus,15.4,6
+6,A,2020,2020,624,Taxes on production and imports less subsidies,-5.3,6
+6,A,2020,2020,624,Compensation of employees,139.4,6
+6,A,2020,2020,624,Social assistance,149.5,6
+6,A,2020,2020,7,Taxes on production and imports less subsidies,50.1,6
+6,A,2020,2020,7,Compensation of employees,440.2,6
+6,A,2020,2020,7,"Arts, entertainment, recreation, accommodation, and food services",693.4,6
+6,A,2020,2020,7,Gross operating surplus,203.1,6
+6,A,2020,2020,71,Taxes on production and imports less subsidies,15.6,6
+6,A,2020,2020,71,Gross operating surplus,53.5,6
+6,A,2020,2020,71,Compensation of employees,101.7,6
+6,A,2020,2020,71,"Arts, entertainment, and recreation",170.9,6
+6,A,2020,2020,711AS,Gross operating surplus,41.9,6
+6,A,2020,2020,711AS,"Performing arts, spectator sports, museums, and related activities",100.2,6
+6,A,2020,2020,711AS,Compensation of employees,54.0,6
+6,A,2020,2020,711AS,Taxes on production and imports less subsidies,4.3,6
+6,A,2020,2020,713,Gross operating surplus,11.6,6
+6,A,2020,2020,713,"Amusements, gambling, and recreation industries",70.7,6
+6,A,2020,2020,713,Compensation of employees,47.8,6
+6,A,2020,2020,713,Taxes on production and imports less subsidies,11.3,6
+6,A,2020,2020,72,Taxes on production and imports less subsidies,34.5,6
+6,A,2020,2020,72,Compensation of employees,338.5,6
+6,A,2020,2020,72,Accommodation and food services,522.6,6
+6,A,2020,2020,72,Gross operating surplus,149.6,6
+6,A,2020,2020,721,Taxes on production and imports less subsidies,20.4,6
+6,A,2020,2020,721,Compensation of employees,67.8,6
+6,A,2020,2020,721,Accommodation,126.5,6
+6,A,2020,2020,721,Gross operating surplus,38.4,6
+6,A,2020,2020,722,Gross operating surplus,111.2,6
+6,A,2020,2020,722,Compensation of employees,270.7,6
+6,A,2020,2020,722,Food services and drinking places,396.1,6
+6,A,2020,2020,722,Taxes on production and imports less subsidies,14.1,6
+6,A,2020,2020,81,Taxes on production and imports less subsidies,2.1,6
+6,A,2020,2020,81,Gross operating surplus,111.5,6
+6,A,2020,2020,81,"Other services, except government",450.6,6
+6,A,2020,2020,81,Compensation of employees,337.1,6
+6,A,2020,2020,FIRE,Taxes on production and imports less subsidies,365.5,6
+6,A,2020,2020,FIRE,Compensation of employees,1081.7,6
+6,A,2020,2020,FIRE,Gross operating surplus,3181.6,6
+6,A,2020,2020,FIRE,"Finance, insurance, real estate, rental, and leasing",4628.8,6
+6,A,2020,2020,G,Government,2712.4,6
+6,A,2020,2020,G,Compensation of employees,2141.6,6
+6,A,2020,2020,G,Taxes on production and imports less subsidies,-46.0,6
+6,A,2020,2020,G,Gross operating surplus,616.8,6
+6,A,2020,2020,GDP,Compensation of employees,11604.0,6
+6,A,2020,2020,GDP,Gross domestic product,21354.1,6
+6,A,2020,2020,GDP,Gross operating surplus,8927.3,6
+6,A,2020,2020,GDP,Taxes on production and imports less subsidies,822.8,6
+6,A,2020,2020,GF,Compensation of employees,550.5,6
+6,A,2020,2020,GF,Federal,859.7,6
+6,A,2020,2020,GF,Gross operating surplus,316.3,6
+6,A,2020,2020,GF,Taxes on production and imports less subsidies,-7.1,6
+6,A,2020,2020,GFE,Compensation of employees,63.3,6
+6,A,2020,2020,GFE,Government enterprises,72.3,6
+6,A,2020,2020,GFE,Gross operating surplus,16.2,6
+6,A,2020,2020,GFE,Taxes on production and imports less subsidies,-7.1,6
+6,A,2020,2020,GFG,Compensation of employees,487.2,6
+6,A,2020,2020,GFG,Gross operating surplus,300.2,6
+6,A,2020,2020,GFG,General government,787.4,6
+6,A,2020,2020,GFGD,Compensation of employees,280.2,6
+6,A,2020,2020,GFGD,Gross operating surplus,170.7,6
+6,A,2020,2020,GFGD,National defense,450.9,6
+6,A,2020,2020,GFGN,Compensation of employees,207.0,6
+6,A,2020,2020,GFGN,Nondefense,336.5,6
+6,A,2020,2020,GFGN,Gross operating surplus,129.5,6
+6,A,2020,2020,GSL,Compensation of employees,1591.1,6
+6,A,2020,2020,GSL,State and local,1852.7,6
+6,A,2020,2020,GSL,Gross operating surplus,300.5,6
+6,A,2020,2020,GSL,Taxes on production and imports less subsidies,-38.9,6
+6,A,2020,2020,GSLE,Taxes on production and imports less subsidies,-38.9,6
+6,A,2020,2020,GSLE,Compensation of employees,115.9,6
+6,A,2020,2020,GSLE,Government enterprises,141.5,6
+6,A,2020,2020,GSLE,Gross operating surplus,64.4,6
+6,A,2020,2020,GSLG,Compensation of employees,1475.2,6
+6,A,2020,2020,GSLG,General government,1711.3,6
+6,A,2020,2020,GSLG,Gross operating surplus,236.0,6
+6,A,2020,2020,HS,Compensation of employees,21.2,6
+6,A,2020,2020,HS,Housing,2060.7,6
+6,A,2020,2020,HS,Taxes on production and imports less subsidies,266.7,6
+6,A,2020,2020,HS,Gross operating surplus,1772.8,6
+6,A,2020,2020,ICT,Gross operating surplus,748.8,6
+6,A,2020,2020,ICT,Information-communications-technology-producing industries <sup>3</sup>,1581.7,6
+6,A,2020,2020,ICT,Compensation of employees,782.1,6
+6,A,2020,2020,ICT,Taxes on production and imports less subsidies,50.8,6
+6,A,2020,2020,ORE,Gross operating surplus,480.2,6
+6,A,2020,2020,ORE,Taxes on production and imports less subsidies,13.0,6
+6,A,2020,2020,ORE,Compensation of employees,111.7,6
+6,A,2020,2020,ORE,Other real estate,604.9,6
+6,A,2020,2020,PGOOD,Taxes on production and imports less subsidies,-20.2,6
+6,A,2020,2020,PGOOD,Compensation of employees,1843.8,6
+6,A,2020,2020,PGOOD,Private goods-producing industries <sup>1</sup>,3472.1,6
+6,A,2020,2020,PGOOD,Gross operating surplus,1648.5,6
+6,A,2020,2020,PROF,Taxes on production and imports less subsidies,-25.7,6
+6,A,2020,2020,PROF,Compensation of employees,2021.1,6
+6,A,2020,2020,PROF,Professional and business services,2726.1,6
+6,A,2020,2020,PROF,Gross operating surplus,730.7,6
+6,A,2020,2020,PSERV,Private services-producing industries <sup>2</sup>,15169.6,6
+6,A,2020,2020,PSERV,Gross operating surplus,6662.0,6
+6,A,2020,2020,PSERV,Taxes on production and imports less subsidies,888.9,6
+6,A,2020,2020,PSERV,Compensation of employees,7618.7,6
+6,A,2020,2020,PVT,Private industries,18641.7,6
+6,A,2020,2020,PVT,Gross operating surplus,8310.5,6
+6,A,2020,2020,PVT,Taxes on production and imports less subsidies,868.7,6
+6,A,2020,2020,PVT,Compensation of employees,9462.4,6
+6,A,2021,2021,11,Taxes on production and imports less subsidies,-14.6,6
+6,A,2021,2021,11,Compensation of employees,60.9,6
+6,A,2021,2021,11,"Agriculture, forestry, fishing, and hunting",228.6,6
+6,A,2021,2021,11,Gross operating surplus,182.3,6
+6,A,2021,2021,111CA,Taxes on production and imports less subsidies,-15.8,6
+6,A,2021,2021,111CA,Gross operating surplus,168.9,6
+6,A,2021,2021,111CA,Farms,183.6,6
+6,A,2021,2021,111CA,Compensation of employees,30.6,6
+6,A,2021,2021,113FF,"Forestry, fishing, and related activities",45.0,6
+6,A,2021,2021,113FF,Compensation of employees,30.3,6
+6,A,2021,2021,113FF,Gross operating surplus,13.4,6
+6,A,2021,2021,113FF,Taxes on production and imports less subsidies,1.2,6
+6,A,2021,2021,21,Gross operating surplus,217.4,6
+6,A,2021,2021,21,Mining,331.9,6
+6,A,2021,2021,21,Compensation of employees,66.9,6
+6,A,2021,2021,21,Taxes on production and imports less subsidies,47.6,6
+6,A,2021,2021,211,Taxes on production and imports less subsidies,41.2,6
+6,A,2021,2021,211,Gross operating surplus,156.0,6
+6,A,2021,2021,211,Oil and gas extraction,221.4,6
+6,A,2021,2021,211,Compensation of employees,24.1,6
+6,A,2021,2021,212,Taxes on production and imports less subsidies,6.4,6
+6,A,2021,2021,212,Gross operating surplus,42.7,6
+6,A,2021,2021,212,"Mining, except oil and gas",67.7,6
+6,A,2021,2021,212,Compensation of employees,18.6,6
+6,A,2021,2021,213,Support activities for mining,42.8,6
+6,A,2021,2021,213,Compensation of employees,24.1,6
+6,A,2021,2021,213,Gross operating surplus,18.7,6
+6,A,2021,2021,213,Taxes on production and imports less subsidies,0.0,6
+6,A,2021,2021,22,Utilities,390.8,6
+6,A,2021,2021,22,Gross operating surplus,225.9,6
+6,A,2021,2021,22,Compensation of employees,94.7,6
+6,A,2021,2021,22,Taxes on production and imports less subsidies,70.1,6
+6,A,2021,2021,23,Compensation of employees,636.9,6
+6,A,2021,2021,23,Construction,1011.7,6
+6,A,2021,2021,23,Gross operating surplus,399.9,6
+6,A,2021,2021,23,Taxes on production and imports less subsidies,-25.1,6
+6,A,2021,2021,311FT,Compensation of employees,135.7,6
+6,A,2021,2021,311FT,Food and beverage and tobacco products,306.7,6
+6,A,2021,2021,311FT,Gross operating surplus,147.6,6
+6,A,2021,2021,311FT,Taxes on production and imports less subsidies,23.4,6
+6,A,2021,2021,313TT,Compensation of employees,12.3,6
+6,A,2021,2021,313TT,Textile mills and textile product mills,17.0,6
+6,A,2021,2021,313TT,Taxes on production and imports less subsidies,0.1,6
+6,A,2021,2021,313TT,Gross operating surplus,4.5,6
+6,A,2021,2021,315AL,Taxes on production and imports less subsidies,-0.8,6
+6,A,2021,2021,315AL,Gross operating surplus,4.2,6
+6,A,2021,2021,315AL,Apparel and leather and allied products,10.8,6
+6,A,2021,2021,315AL,Compensation of employees,7.3,6
+6,A,2021,2021,31G,Taxes on production and imports less subsidies,55.2,6
+6,A,2021,2021,31G,Gross operating surplus,1172.2,6
+6,A,2021,2021,31G,Manufacturing,2408.8,6
+6,A,2021,2021,31G,Compensation of employees,1181.4,6
+6,A,2021,2021,31ND,Compensation of employees,404.1,6
+6,A,2021,2021,31ND,Taxes on production and imports less subsidies,45.7,6
+6,A,2021,2021,31ND,Nondurable goods,1125.3,6
+6,A,2021,2021,31ND,Gross operating surplus,675.5,6
+6,A,2021,2021,321,Taxes on production and imports less subsidies,-0.1,6
+6,A,2021,2021,321,Compensation of employees,28.2,6
+6,A,2021,2021,321,Wood products,59.2,6
+6,A,2021,2021,321,Gross operating surplus,31.1,6
+6,A,2021,2021,322,Gross operating surplus,30.4,6
+6,A,2021,2021,322,Paper products,64.6,6
+6,A,2021,2021,322,Compensation of employees,32.5,6
+6,A,2021,2021,322,Taxes on production and imports less subsidies,1.7,6
+6,A,2021,2021,323,Gross operating surplus,15.5,6
+6,A,2021,2021,323,Printing and related support activities,38.9,6
+6,A,2021,2021,323,Compensation of employees,24.6,6
+6,A,2021,2021,323,Taxes on production and imports less subsidies,-1.3,6
+6,A,2021,2021,324,Gross operating surplus,119.7,6
+6,A,2021,2021,324,Petroleum and coal products,143.2,6
+6,A,2021,2021,324,Taxes on production and imports less subsidies,4.4,6
+6,A,2021,2021,324,Compensation of employees,19.0,6
+6,A,2021,2021,325,Compensation of employees,118.0,6
+6,A,2021,2021,325,Chemical products,461.3,6
+6,A,2021,2021,325,Taxes on production and imports less subsidies,17.2,6
+6,A,2021,2021,325,Gross operating surplus,326.1,6
+6,A,2021,2021,326,Compensation of employees,54.5,6
+6,A,2021,2021,326,Plastics and rubber products,82.9,6
+6,A,2021,2021,326,Gross operating surplus,27.4,6
+6,A,2021,2021,326,Taxes on production and imports less subsidies,1.0,6
+6,A,2021,2021,327,Compensation of employees,33.1,6
+6,A,2021,2021,327,Nonmetallic mineral products,67.8,6
+6,A,2021,2021,327,Gross operating surplus,33.8,6
+6,A,2021,2021,327,Taxes on production and imports less subsidies,0.9,6
+6,A,2021,2021,331,Taxes on production and imports less subsidies,2.0,6
+6,A,2021,2021,331,Compensation of employees,34.5,6
+6,A,2021,2021,331,Primary metals,73.2,6
+6,A,2021,2021,331,Gross operating surplus,36.7,6
+6,A,2021,2021,332,Compensation of employees,108.0,6
+6,A,2021,2021,332,Fabricated metal products,147.9,6
+6,A,2021,2021,332,Gross operating surplus,42.4,6
+6,A,2021,2021,332,Taxes on production and imports less subsidies,-2.5,6
+6,A,2021,2021,333,Compensation of employees,101.9,6
+6,A,2021,2021,333,Machinery,157.4,6
+6,A,2021,2021,333,Gross operating surplus,55.1,6
+6,A,2021,2021,333,Taxes on production and imports less subsidies,0.4,6
+6,A,2021,2021,334,Compensation of employees,183.9,6
+6,A,2021,2021,334,Computer and electronic products,292.5,6
+6,A,2021,2021,334,Gross operating surplus,100.8,6
+6,A,2021,2021,334,Taxes on production and imports less subsidies,7.8,6
+6,A,2021,2021,335,Compensation of employees,39.8,6
+6,A,2021,2021,335,Taxes on production and imports less subsidies,0.2,6
+6,A,2021,2021,335,"Electrical equipment, appliances, and components",61.2,6
+6,A,2021,2021,335,Gross operating surplus,21.2,6
+6,A,2021,2021,3361MV,Taxes on production and imports less subsidies,1.6,6
+6,A,2021,2021,3361MV,Compensation of employees,79.9,6
+6,A,2021,2021,3361MV,"Motor vehicles, bodies and trailers, and parts",143.1,6
+6,A,2021,2021,3361MV,Gross operating surplus,61.7,6
+6,A,2021,2021,3364OT,Other transportation equipment,153.0,6
+6,A,2021,2021,3364OT,Gross operating surplus,68.7,6
+6,A,2021,2021,3364OT,Compensation of employees,83.6,6
+6,A,2021,2021,3364OT,Taxes on production and imports less subsidies,0.7,6
+6,A,2021,2021,337,Taxes on production and imports less subsidies,-1.0,6
+6,A,2021,2021,337,Gross operating surplus,7.4,6
+6,A,2021,2021,337,Compensation of employees,23.6,6
+6,A,2021,2021,337,Furniture and related products,30.0,6
+6,A,2021,2021,339,Gross operating surplus,37.9,6
+6,A,2021,2021,339,Miscellaneous manufacturing,98.2,6
+6,A,2021,2021,339,Compensation of employees,61.0,6
+6,A,2021,2021,339,Taxes on production and imports less subsidies,-0.8,6
+6,A,2021,2021,33DG,Compensation of employees,777.3,6
+6,A,2021,2021,33DG,Durable goods,1283.5,6
+6,A,2021,2021,33DG,Gross operating surplus,496.7,6
+6,A,2021,2021,33DG,Taxes on production and imports less subsidies,9.4,6
+6,A,2021,2021,42,Taxes on production and imports less subsidies,293.1,6
+6,A,2021,2021,42,Compensation of employees,607.1,6
+6,A,2021,2021,42,Wholesale trade,1415.1,6
+6,A,2021,2021,42,Gross operating surplus,514.9,6
+6,A,2021,2021,441,Gross operating surplus,109.5,6
+6,A,2021,2021,441,Motor vehicle and parts dealers,317.0,6
+6,A,2021,2021,441,Compensation of employees,156.1,6
+6,A,2021,2021,441,Taxes on production and imports less subsidies,51.5,6
+6,A,2021,2021,445,Gross operating surplus,56.2,6
+6,A,2021,2021,445,Food and beverage stores,197.3,6
+6,A,2021,2021,445,Compensation of employees,115.2,6
+6,A,2021,2021,445,Taxes on production and imports less subsidies,25.9,6
+6,A,2021,2021,44RT,Compensation of employees,747.9,6
+6,A,2021,2021,44RT,Retail trade,1535.2,6
+6,A,2021,2021,44RT,Gross operating surplus,533.5,6
+6,A,2021,2021,44RT,Taxes on production and imports less subsidies,253.7,6
+6,A,2021,2021,452,Taxes on production and imports less subsidies,46.5,6
+6,A,2021,2021,452,Compensation of employees,111.3,6
+6,A,2021,2021,452,General merchandise stores,183.1,6
+6,A,2021,2021,452,Gross operating surplus,25.4,6
+6,A,2021,2021,481,Taxes on production and imports less subsidies,0.4,6
+6,A,2021,2021,481,Compensation of employees,57.8,6
+6,A,2021,2021,481,Air transportation,96.0,6
+6,A,2021,2021,481,Gross operating surplus,37.8,6
+6,A,2021,2021,482,Taxes on production and imports less subsidies,-2.7,6
+6,A,2021,2021,482,Compensation of employees,20.0,6
+6,A,2021,2021,482,Rail transportation,45.2,6
+6,A,2021,2021,482,Gross operating surplus,27.8,6
+6,A,2021,2021,483,Taxes on production and imports less subsidies,0.6,6
+6,A,2021,2021,483,Gross operating surplus,11.5,6
+6,A,2021,2021,483,Water transportation,19.5,6
+6,A,2021,2021,483,Compensation of employees,7.3,6
+6,A,2021,2021,484,Taxes on production and imports less subsidies,0.7,6
+6,A,2021,2021,484,Compensation of employees,121.3,6
+6,A,2021,2021,484,Gross operating surplus,108.4,6
+6,A,2021,2021,484,Truck transportation,230.4,6
+6,A,2021,2021,485,Compensation of employees,25.4,6
+6,A,2021,2021,485,Transit and ground passenger transportation,46.9,6
+6,A,2021,2021,485,Gross operating surplus,23.2,6
+6,A,2021,2021,485,Taxes on production and imports less subsidies,-1.7,6
+6,A,2021,2021,486,Taxes on production and imports less subsidies,4.1,6
+6,A,2021,2021,486,Compensation of employees,8.2,6
+6,A,2021,2021,486,Pipeline transportation,41.8,6
+6,A,2021,2021,486,Gross operating surplus,29.4,6
+6,A,2021,2021,487OS,Other transportation and support activities,195.6,6
+6,A,2021,2021,487OS,Gross operating surplus,68.7,6
+6,A,2021,2021,487OS,Compensation of employees,126.6,6
+6,A,2021,2021,487OS,Taxes on production and imports less subsidies,0.4,6
+6,A,2021,2021,48TW,Taxes on production and imports less subsidies,2.0,6
+6,A,2021,2021,48TW,Compensation of employees,460.9,6
+6,A,2021,2021,48TW,Gross operating surplus,312.6,6
+6,A,2021,2021,48TW,Transportation and warehousing,775.4,6
+6,A,2021,2021,493,Warehousing and storage,100.2,6
+6,A,2021,2021,493,Compensation of employees,94.2,6
+6,A,2021,2021,493,Gross operating surplus,5.7,6
+6,A,2021,2021,493,Taxes on production and imports less subsidies,0.3,6
+6,A,2021,2021,4A0,Gross operating surplus,342.5,6
+6,A,2021,2021,4A0,Other retail,837.7,6
+6,A,2021,2021,4A0,Compensation of employees,365.4,6
+6,A,2021,2021,4A0,Taxes on production and imports less subsidies,129.9,6
+6,A,2021,2021,51,Taxes on production and imports less subsidies,57.2,6
+6,A,2021,2021,51,Compensation of employees,508.6,6
+6,A,2021,2021,51,Gross operating surplus,744.7,6
+6,A,2021,2021,51,Information,1310.4,6
+6,A,2021,2021,511,Taxes on production and imports less subsidies,5.2,6
+6,A,2021,2021,511,Compensation of employees,162.9,6
+6,A,2021,2021,511,Gross operating surplus,183.2,6
+6,A,2021,2021,511,"Publishing industries, except internet (includes software)",351.3,6
+6,A,2021,2021,512,Gross operating surplus,47.5,6
+6,A,2021,2021,512,Motion picture and sound recording industries,92.6,6
+6,A,2021,2021,512,Taxes on production and imports less subsidies,1.8,6
+6,A,2021,2021,512,Compensation of employees,43.3,6
+6,A,2021,2021,513,Gross operating surplus,337.5,6
+6,A,2021,2021,513,Broadcasting and telecommunications,498.0,6
+6,A,2021,2021,513,Compensation of employees,116.8,6
+6,A,2021,2021,513,Taxes on production and imports less subsidies,43.6,6
+6,A,2021,2021,514,Taxes on production and imports less subsidies,6.5,6
+6,A,2021,2021,514,Compensation of employees,185.6,6
+6,A,2021,2021,514,Gross operating surplus,176.4,6
+6,A,2021,2021,514,"Data processing, internet publishing, and other information services",368.5,6
+6,A,2021,2021,52,Finance and insurance,1859.0,6
+6,A,2021,2021,52,Compensation of employees,990.6,6
+6,A,2021,2021,52,Taxes on production and imports less subsidies,61.2,6
+6,A,2021,2021,52,Gross operating surplus,807.2,6
+6,A,2021,2021,521CI,"Federal Reserve banks, credit intermediation, and related activities",842.1,6
+6,A,2021,2021,521CI,Taxes on production and imports less subsidies,20.4,6
+6,A,2021,2021,521CI,Compensation of employees,349.5,6
+6,A,2021,2021,521CI,Gross operating surplus,472.2,6
+6,A,2021,2021,523,"Securities, commodity contracts, and investments",358.0,6
+6,A,2021,2021,523,Compensation of employees,313.2,6
+6,A,2021,2021,523,Gross operating surplus,38.7,6
+6,A,2021,2021,523,Taxes on production and imports less subsidies,6.1,6
+6,A,2021,2021,524,Taxes on production and imports less subsidies,34.0,6
+6,A,2021,2021,524,Gross operating surplus,279.5,6
+6,A,2021,2021,524,Insurance carriers and related activities,637.4,6
+6,A,2021,2021,524,Compensation of employees,323.8,6
+6,A,2021,2021,525,"Funds, trusts, and other financial vehicles",21.5,6
+6,A,2021,2021,525,Gross operating surplus,16.8,6
+6,A,2021,2021,525,Compensation of employees,4.1,6
+6,A,2021,2021,525,Taxes on production and imports less subsidies,0.6,6
+6,A,2021,2021,53,Compensation of employees,190.0,6
+6,A,2021,2021,53,Real estate and rental and leasing,3144.7,6
+6,A,2021,2021,53,Gross operating surplus,2630.4,6
+6,A,2021,2021,53,Taxes on production and imports less subsidies,324.2,6
+6,A,2021,2021,531,Real estate,2864.6,6
+6,A,2021,2021,531,Gross operating surplus,2412.7,6
+6,A,2021,2021,531,Compensation of employees,150.0,6
+6,A,2021,2021,531,Taxes on production and imports less subsidies,301.9,6
+6,A,2021,2021,532RL,Taxes on production and imports less subsidies,22.4,6
+6,A,2021,2021,532RL,Compensation of employees,40.0,6
+6,A,2021,2021,532RL,Rental and leasing services and lessors of intangible assets,280.1,6
+6,A,2021,2021,532RL,Gross operating surplus,217.7,6
+6,A,2021,2021,54,Taxes on production and imports less subsidies,21.0,6
+6,A,2021,2021,54,Gross operating surplus,548.4,6
+6,A,2021,2021,54,"Professional, scientific, and technical services",1882.4,6
+6,A,2021,2021,54,Compensation of employees,1313.0,6
+6,A,2021,2021,5411,Legal services,326.5,6
+6,A,2021,2021,5411,Compensation of employees,158.9,6
+6,A,2021,2021,5411,Taxes on production and imports less subsidies,18.7,6
+6,A,2021,2021,5411,Gross operating surplus,148.9,6
+6,A,2021,2021,5412OP,Taxes on production and imports less subsidies,-2.4,6
+6,A,2021,2021,5412OP,"Miscellaneous professional, scientific, and technical services",1120.5,6
+6,A,2021,2021,5412OP,Gross operating surplus,344.5,6
+6,A,2021,2021,5412OP,Compensation of employees,778.4,6
+6,A,2021,2021,5415,Taxes on production and imports less subsidies,4.8,6
+6,A,2021,2021,5415,Compensation of employees,375.7,6
+6,A,2021,2021,5415,Computer systems design and related services,435.4,6
+6,A,2021,2021,5415,Gross operating surplus,55.0,6
+6,A,2021,2021,55,Gross operating surplus,39.5,6
+6,A,2021,2021,55,Management of companies and enterprises,442.1,6
+6,A,2021,2021,55,Compensation of employees,393.4,6
+6,A,2021,2021,55,Taxes on production and imports less subsidies,9.2,6
+6,A,2021,2021,56,Gross operating surplus,193.1,6
+6,A,2021,2021,56,Compensation of employees,543.5,6
+6,A,2021,2021,56,Taxes on production and imports less subsidies,3.2,6
+6,A,2021,2021,56,Administrative and waste management services,739.7,6
+6,A,2021,2021,561,Taxes on production and imports less subsidies,-0.5,6
+6,A,2021,2021,561,Gross operating surplus,166.5,6
+6,A,2021,2021,561,Administrative and support services,671.6,6
+6,A,2021,2021,561,Compensation of employees,505.6,6
+6,A,2021,2021,562,Compensation of employees,37.8,6
+6,A,2021,2021,562,Gross operating surplus,26.6,6
+6,A,2021,2021,562,Waste management and remediation services,68.1,6
+6,A,2021,2021,562,Taxes on production and imports less subsidies,3.7,6
+6,A,2021,2021,6,Gross operating surplus,373.6,6
+6,A,2021,2021,6,"Educational services, health care, and social assistance",2004.2,6
+6,A,2021,2021,6,Compensation of employees,1666.0,6
+6,A,2021,2021,6,Taxes on production and imports less subsidies,-35.4,6
+6,A,2021,2021,61,Compensation of employees,227.8,6
+6,A,2021,2021,61,Educational services,270.0,6
+6,A,2021,2021,61,Taxes on production and imports less subsidies,4.4,6
+6,A,2021,2021,61,Gross operating surplus,37.7,6
+6,A,2021,2021,62,Taxes on production and imports less subsidies,-39.8,6
+6,A,2021,2021,62,Compensation of employees,1438.2,6
+6,A,2021,2021,62,Health care and social assistance,1734.2,6
+6,A,2021,2021,62,Gross operating surplus,335.9,6
+6,A,2021,2021,621,Ambulatory health care services,847.8,6
+6,A,2021,2021,621,Compensation of employees,677.1,6
+6,A,2021,2021,621,Gross operating surplus,207.5,6
+6,A,2021,2021,621,Taxes on production and imports less subsidies,-36.7,6
+6,A,2021,2021,622,Hospitals,566.2,6
+6,A,2021,2021,622,Compensation of employees,461.2,6
+6,A,2021,2021,622,Gross operating surplus,94.1,6
+6,A,2021,2021,622,Taxes on production and imports less subsidies,11.0,6
+6,A,2021,2021,623,Taxes on production and imports less subsidies,1.0,6
+6,A,2021,2021,623,Gross operating surplus,11.1,6
+6,A,2021,2021,623,Nursing and residential care facilities,163.6,6
+6,A,2021,2021,623,Compensation of employees,151.5,6
+6,A,2021,2021,624,Social assistance,156.6,6
+6,A,2021,2021,624,Compensation of employees,148.4,6
+6,A,2021,2021,624,Taxes on production and imports less subsidies,-15.1,6
+6,A,2021,2021,624,Gross operating surplus,23.3,6
+6,A,2021,2021,7,"Arts, entertainment, recreation, accommodation, and food services",906.7,6
+6,A,2021,2021,7,Compensation of employees,545.7,6
+6,A,2021,2021,7,Gross operating surplus,344.4,6
+6,A,2021,2021,7,Taxes on production and imports less subsidies,16.6,6
+6,A,2021,2021,71,Taxes on production and imports less subsidies,10.4,6
+6,A,2021,2021,71,Gross operating surplus,84.0,6
+6,A,2021,2021,71,Compensation of employees,119.8,6
+6,A,2021,2021,71,"Arts, entertainment, and recreation",214.2,6
+6,A,2021,2021,711AS,Taxes on production and imports less subsidies,-5.7,6
+6,A,2021,2021,711AS,Compensation of employees,61.4,6
+6,A,2021,2021,711AS,"Performing arts, spectator sports, museums, and related activities",118.1,6
+6,A,2021,2021,711AS,Gross operating surplus,62.4,6
+6,A,2021,2021,713,Compensation of employees,58.4,6
+6,A,2021,2021,713,"Amusements, gambling, and recreation industries",96.2,6
+6,A,2021,2021,713,Taxes on production and imports less subsidies,16.1,6
+6,A,2021,2021,713,Gross operating surplus,21.6,6
+6,A,2021,2021,72,Taxes on production and imports less subsidies,6.2,6
+6,A,2021,2021,72,Compensation of employees,425.8,6
+6,A,2021,2021,72,Accommodation and food services,692.5,6
+6,A,2021,2021,72,Gross operating surplus,260.4,6
+6,A,2021,2021,721,Gross operating surplus,74.0,6
+6,A,2021,2021,721,Taxes on production and imports less subsidies,22.2,6
+6,A,2021,2021,721,Compensation of employees,79.3,6
+6,A,2021,2021,721,Accommodation,175.5,6
+6,A,2021,2021,722,Taxes on production and imports less subsidies,-16.0,6
+6,A,2021,2021,722,Compensation of employees,346.5,6
+6,A,2021,2021,722,Gross operating surplus,186.4,6
+6,A,2021,2021,722,Food services and drinking places,517.0,6
+6,A,2021,2021,81,"Other services, except government",484.8,6
+6,A,2021,2021,81,Compensation of employees,353.4,6
+6,A,2021,2021,81,Gross operating surplus,131.8,6
+6,A,2021,2021,81,Taxes on production and imports less subsidies,-0.5,6
+6,A,2021,2021,FIRE,"Finance, insurance, real estate, rental, and leasing",5003.6,6
+6,A,2021,2021,FIRE,Gross operating surplus,3437.6,6
+6,A,2021,2021,FIRE,Compensation of employees,1180.6,6
+6,A,2021,2021,FIRE,Taxes on production and imports less subsidies,385.4,6
+6,A,2021,2021,G,Taxes on production and imports less subsidies,-48.4,6
+6,A,2021,2021,G,Government,2810.0,6
+6,A,2021,2021,G,Compensation of employees,2207.5,6
+6,A,2021,2021,G,Gross operating surplus,650.9,6
+6,A,2021,2021,GDP,Gross operating surplus,10022.7,6
+6,A,2021,2021,GDP,Gross domestic product,23681.2,6
+6,A,2021,2021,GDP,Compensation of employees,12568.2,6
+6,A,2021,2021,GDP,Taxes on production and imports less subsidies,1090.2,6
+6,A,2021,2021,GF,Compensation of employees,573.9,6
+6,A,2021,2021,GF,Federal,900.1,6
+6,A,2021,2021,GF,Gross operating surplus,335.9,6
+6,A,2021,2021,GF,Taxes on production and imports less subsidies,-9.7,6
+6,A,2021,2021,GFE,Compensation of employees,65.7,6
+6,A,2021,2021,GFE,Government enterprises,74.1,6
+6,A,2021,2021,GFE,Gross operating surplus,18.1,6
+6,A,2021,2021,GFE,Taxes on production and imports less subsidies,-9.7,6
+6,A,2021,2021,GFG,Gross operating surplus,317.7,6
+6,A,2021,2021,GFG,Compensation of employees,508.2,6
+6,A,2021,2021,GFG,General government,825.9,6
+6,A,2021,2021,GFGD,National defense,473.7,6
+6,A,2021,2021,GFGD,Compensation of employees,294.1,6
+6,A,2021,2021,GFGD,Gross operating surplus,179.6,6
+6,A,2021,2021,GFGN,Compensation of employees,214.1,6
+6,A,2021,2021,GFGN,Nondefense,352.2,6
+6,A,2021,2021,GFGN,Gross operating surplus,138.1,6
+6,A,2021,2021,GSL,Compensation of employees,1633.5,6
+6,A,2021,2021,GSL,State and local,1909.9,6
+6,A,2021,2021,GSL,Gross operating surplus,315.1,6
+6,A,2021,2021,GSL,Taxes on production and imports less subsidies,-38.7,6
+6,A,2021,2021,GSLE,Taxes on production and imports less subsidies,-38.7,6
+6,A,2021,2021,GSLE,Compensation of employees,118.4,6
+6,A,2021,2021,GSLE,Government enterprises,141.0,6
+6,A,2021,2021,GSLE,Gross operating surplus,61.3,6
+6,A,2021,2021,GSLG,Compensation of employees,1515.1,6
+6,A,2021,2021,GSLG,General government,1768.9,6
+6,A,2021,2021,GSLG,Gross operating surplus,253.8,6
+6,A,2021,2021,HS,Taxes on production and imports less subsidies,280.7,6
+6,A,2021,2021,HS,Compensation of employees,22.2,6
+6,A,2021,2021,HS,Housing,2177.3,6
+6,A,2021,2021,HS,Gross operating surplus,1874.4,6
+6,A,2021,2021,ICT,Taxes on production and imports less subsidies,63.9,6
+6,A,2021,2021,ICT,Compensation of employees,911.8,6
+6,A,2021,2021,ICT,Information-communications-technology-producing industries <sup>3</sup>,1743.2,6
+6,A,2021,2021,ICT,Gross operating surplus,767.5,6
+6,A,2021,2021,ORE,Gross operating surplus,538.3,6
+6,A,2021,2021,ORE,Other real estate,687.2,6
+6,A,2021,2021,ORE,Compensation of employees,127.8,6
+6,A,2021,2021,ORE,Taxes on production and imports less subsidies,21.1,6
+6,A,2021,2021,PGOOD,Gross operating surplus,1971.8,6
+6,A,2021,2021,PGOOD,Private goods-producing industries <sup>1</sup>,3981.0,6
+6,A,2021,2021,PGOOD,Compensation of employees,1946.1,6
+6,A,2021,2021,PGOOD,Taxes on production and imports less subsidies,63.0,6
+6,A,2021,2021,PROF,Taxes on production and imports less subsidies,33.3,6
+6,A,2021,2021,PROF,Gross operating surplus,781.0,6
+6,A,2021,2021,PROF,Professional and business services,3064.2,6
+6,A,2021,2021,PROF,Compensation of employees,2249.8,6
+6,A,2021,2021,PSERV,Compensation of employees,8414.7,6
+6,A,2021,2021,PSERV,Gross operating surplus,7400.0,6
+6,A,2021,2021,PSERV,Private services-producing industries <sup>2</sup>,16890.3,6
+6,A,2021,2021,PSERV,Taxes on production and imports less subsidies,1075.6,6
+6,A,2021,2021,PVT,Taxes on production and imports less subsidies,1138.7,6
+6,A,2021,2021,PVT,Compensation of employees,10360.7,6
+6,A,2021,2021,PVT,Private industries,20871.2,6
+6,A,2021,2021,PVT,Gross operating surplus,9371.8,6
+6,A,2022,2022,11,Gross operating surplus,222.1,6
+6,A,2022,2022,11,"Agriculture, forestry, fishing, and hunting",290.0,6
+6,A,2022,2022,11,Compensation of employees,67.0,6
+6,A,2022,2022,11,Taxes on production and imports less subsidies,0.9,6
+6,A,2022,2022,111CA,Gross operating surplus,208.0,6
+6,A,2022,2022,111CA,Farms,241.9,6
+6,A,2022,2022,111CA,Compensation of employees,35.7,6
+6,A,2022,2022,111CA,Taxes on production and imports less subsidies,-1.8,6
+6,A,2022,2022,113FF,Taxes on production and imports less subsidies,2.7,6
+6,A,2022,2022,113FF,Gross operating surplus,14.1,6
+6,A,2022,2022,113FF,Compensation of employees,31.3,6
+6,A,2022,2022,113FF,"Forestry, fishing, and related activities",48.1,6
+6,A,2022,2022,21,Taxes on production and imports less subsidies,66.1,6
+6,A,2022,2022,21,Compensation of employees,77.6,6
+6,A,2022,2022,21,Mining,460.6,6
+6,A,2022,2022,21,Gross operating surplus,316.8,6
+6,A,2022,2022,211,Compensation of employees,26.3,6
+6,A,2022,2022,211,Oil and gas extraction,319.1,6
+6,A,2022,2022,211,Gross operating surplus,238.5,6
+6,A,2022,2022,211,Taxes on production and imports less subsidies,54.3,6
+6,A,2022,2022,212,Compensation of employees,20.4,6
+6,A,2022,2022,212,"Mining, except oil and gas",78.4,6
+6,A,2022,2022,212,Gross operating surplus,48.9,6
+6,A,2022,2022,212,Taxes on production and imports less subsidies,9.2,6
+6,A,2022,2022,213,Taxes on production and imports less subsidies,2.7,6
+6,A,2022,2022,213,Gross operating surplus,29.5,6
+6,A,2022,2022,213,Compensation of employees,30.9,6
+6,A,2022,2022,213,Support activities for mining,63.1,6
+6,A,2022,2022,22,Taxes on production and imports less subsidies,76.0,6
+6,A,2022,2022,22,Compensation of employees,96.6,6
+6,A,2022,2022,22,Utilities,443.6,6
+6,A,2022,2022,22,Gross operating surplus,271.0,6
+6,A,2022,2022,23,Compensation of employees,695.5,6
+6,A,2022,2022,23,Construction,1114.3,6
+6,A,2022,2022,23,Gross operating surplus,405.0,6
+6,A,2022,2022,23,Taxes on production and imports less subsidies,13.8,6
+6,A,2022,2022,311FT,Taxes on production and imports less subsidies,29.4,6
+6,A,2022,2022,311FT,Compensation of employees,148.6,6
+6,A,2022,2022,311FT,Gross operating surplus,118.9,6
+6,A,2022,2022,311FT,Food and beverage and tobacco products,296.8,6
+6,A,2022,2022,313TT,Taxes on production and imports less subsidies,0.7,6
+6,A,2022,2022,313TT,Gross operating surplus,3.6,6
+6,A,2022,2022,313TT,Textile mills and textile product mills,17.4,6
+6,A,2022,2022,313TT,Compensation of employees,13.0,6
+6,A,2022,2022,315AL,Compensation of employees,8.0,6
+6,A,2022,2022,315AL,Apparel and leather and allied products,12.3,6
+6,A,2022,2022,315AL,Taxes on production and imports less subsidies,0.4,6
+6,A,2022,2022,315AL,Gross operating surplus,3.9,6
+6,A,2022,2022,31G,Compensation of employees,1264.7,6
+6,A,2022,2022,31G,Manufacturing,2684.5,6
+6,A,2022,2022,31G,Taxes on production and imports less subsidies,102.2,6
+6,A,2022,2022,31G,Gross operating surplus,1317.5,6
+6,A,2022,2022,31ND,Compensation of employees,435.5,6
+6,A,2022,2022,31ND,Taxes on production and imports less subsidies,63.3,6
+6,A,2022,2022,31ND,Nondurable goods,1284.8,6
+6,A,2022,2022,31ND,Gross operating surplus,786.0,6
+6,A,2022,2022,321,Compensation of employees,31.4,6
+6,A,2022,2022,321,Taxes on production and imports less subsidies,1.0,6
+6,A,2022,2022,321,Wood products,64.1,6
+6,A,2022,2022,321,Gross operating surplus,31.7,6
+6,A,2022,2022,322,Taxes on production and imports less subsidies,2.3,6
+6,A,2022,2022,322,Compensation of employees,34.6,6
+6,A,2022,2022,322,Paper products,70.3,6
+6,A,2022,2022,322,Gross operating surplus,33.4,6
+6,A,2022,2022,323,Taxes on production and imports less subsidies,1.0,6
+6,A,2022,2022,323,Compensation of employees,26.3,6
+6,A,2022,2022,323,Printing and related support activities,41.6,6
+6,A,2022,2022,323,Gross operating surplus,14.3,6
+6,A,2022,2022,324,Taxes on production and imports less subsidies,5.1,6
+6,A,2022,2022,324,Gross operating surplus,204.9,6
+6,A,2022,2022,324,Compensation of employees,20.3,6
+6,A,2022,2022,324,Petroleum and coal products,230.3,6
+6,A,2022,2022,325,Compensation of employees,126.0,6
+6,A,2022,2022,325,Taxes on production and imports less subsidies,21.8,6
+6,A,2022,2022,325,Chemical products,521.5,6
+6,A,2022,2022,325,Gross operating surplus,373.6,6
+6,A,2022,2022,326,Taxes on production and imports less subsidies,2.7,6
+6,A,2022,2022,326,Compensation of employees,58.7,6
+6,A,2022,2022,326,Gross operating surplus,33.3,6
+6,A,2022,2022,326,Plastics and rubber products,94.7,6
+6,A,2022,2022,327,Gross operating surplus,34.5,6
+6,A,2022,2022,327,Nonmetallic mineral products,72.0,6
+6,A,2022,2022,327,Taxes on production and imports less subsidies,2.0,6
+6,A,2022,2022,327,Compensation of employees,35.5,6
+6,A,2022,2022,331,Gross operating surplus,43.5,6
+6,A,2022,2022,331,Primary metals,84.8,6
+6,A,2022,2022,331,Compensation of employees,38.1,6
+6,A,2022,2022,331,Taxes on production and imports less subsidies,3.2,6
+6,A,2022,2022,332,Gross operating surplus,54.7,6
+6,A,2022,2022,332,Fabricated metal products,175.5,6
+6,A,2022,2022,332,Compensation of employees,116.1,6
+6,A,2022,2022,332,Taxes on production and imports less subsidies,4.8,6
+6,A,2022,2022,333,Machinery,175.6,6
+6,A,2022,2022,333,Taxes on production and imports less subsidies,4.7,6
+6,A,2022,2022,333,Compensation of employees,110.0,6
+6,A,2022,2022,333,Gross operating surplus,60.9,6
+6,A,2022,2022,334,Gross operating surplus,100.9,6
+6,A,2022,2022,334,Compensation of employees,187.2,6
+6,A,2022,2022,334,Taxes on production and imports less subsidies,10.7,6
+6,A,2022,2022,334,Computer and electronic products,298.9,6
+6,A,2022,2022,335,Compensation of employees,42.0,6
+6,A,2022,2022,335,"Electrical equipment, appliances, and components",69.9,6
+6,A,2022,2022,335,Gross operating surplus,26.6,6
+6,A,2022,2022,335,Taxes on production and imports less subsidies,1.2,6
+6,A,2022,2022,3361MV,"Motor vehicles, bodies and trailers, and parts",160.2,6
+6,A,2022,2022,3361MV,Gross operating surplus,67.2,6
+6,A,2022,2022,3361MV,Taxes on production and imports less subsidies,4.7,6
+6,A,2022,2022,3361MV,Compensation of employees,88.3,6
+6,A,2022,2022,3364OT,Gross operating surplus,66.3,6
+6,A,2022,2022,3364OT,Taxes on production and imports less subsidies,3.7,6
+6,A,2022,2022,3364OT,Compensation of employees,90.4,6
+6,A,2022,2022,3364OT,Other transportation equipment,160.4,6
+6,A,2022,2022,337,Furniture and related products,32.3,6
+6,A,2022,2022,337,Compensation of employees,24.9,6
+6,A,2022,2022,337,Gross operating surplus,6.8,6
+6,A,2022,2022,337,Taxes on production and imports less subsidies,0.5,6
+6,A,2022,2022,339,Compensation of employees,65.3,6
+6,A,2022,2022,339,Miscellaneous manufacturing,106.1,6
+6,A,2022,2022,339,Gross operating surplus,38.4,6
+6,A,2022,2022,339,Taxes on production and imports less subsidies,2.4,6
+6,A,2022,2022,33DG,Compensation of employees,829.2,6
+6,A,2022,2022,33DG,Durable goods,1399.7,6
+6,A,2022,2022,33DG,Gross operating surplus,531.5,6
+6,A,2022,2022,33DG,Taxes on production and imports less subsidies,38.9,6
+6,A,2022,2022,42,Compensation of employees,667.0,6
+6,A,2022,2022,42,Wholesale trade,1595.5,6
+6,A,2022,2022,42,Gross operating surplus,599.4,6
+6,A,2022,2022,42,Taxes on production and imports less subsidies,329.1,6
+6,A,2022,2022,441,Motor vehicle and parts dealers,340.4,6
+6,A,2022,2022,441,Compensation of employees,162.1,6
+6,A,2022,2022,441,Taxes on production and imports less subsidies,68.2,6
+6,A,2022,2022,441,Gross operating surplus,110.0,6
+6,A,2022,2022,445,Compensation of employees,121.5,6
+6,A,2022,2022,445,Food and beverage stores,209.9,6
+6,A,2022,2022,445,Gross operating surplus,53.0,6
+6,A,2022,2022,445,Taxes on production and imports less subsidies,35.4,6
+6,A,2022,2022,44RT,Compensation of employees,768.4,6
+6,A,2022,2022,44RT,Taxes on production and imports less subsidies,324.8,6
+6,A,2022,2022,44RT,Retail trade,1628.9,6
+6,A,2022,2022,44RT,Gross operating surplus,535.6,6
+6,A,2022,2022,452,Gross operating surplus,24.1,6
+6,A,2022,2022,452,Taxes on production and imports less subsidies,55.6,6
+6,A,2022,2022,452,Compensation of employees,115.3,6
+6,A,2022,2022,452,General merchandise stores,195.0,6
+6,A,2022,2022,481,Gross operating surplus,47.4,6
+6,A,2022,2022,481,Air transportation,146.7,6
+6,A,2022,2022,481,Taxes on production and imports less subsidies,33.0,6
+6,A,2022,2022,481,Compensation of employees,66.3,6
+6,A,2022,2022,482,Taxes on production and imports less subsidies,-0.7,6
+6,A,2022,2022,482,Compensation of employees,21.7,6
+6,A,2022,2022,482,Rail transportation,52.0,6
+6,A,2022,2022,482,Gross operating surplus,30.9,6
+6,A,2022,2022,483,Gross operating surplus,12.9,6
+6,A,2022,2022,483,Water transportation,22.6,6
+6,A,2022,2022,483,Taxes on production and imports less subsidies,1.3,6
+6,A,2022,2022,483,Compensation of employees,8.4,6
+6,A,2022,2022,484,Compensation of employees,133.1,6
+6,A,2022,2022,484,Truck transportation,259.2,6
+6,A,2022,2022,484,Taxes on production and imports less subsidies,5.9,6
+6,A,2022,2022,484,Gross operating surplus,120.2,6
+6,A,2022,2022,485,Taxes on production and imports less subsidies,2.6,6
+6,A,2022,2022,485,Compensation of employees,29.0,6
+6,A,2022,2022,485,Gross operating surplus,25.4,6
+6,A,2022,2022,485,Transit and ground passenger transportation,57.0,6
+6,A,2022,2022,486,Taxes on production and imports less subsidies,4.4,6
+6,A,2022,2022,486,Compensation of employees,8.9,6
+6,A,2022,2022,486,Gross operating surplus,31.7,6
+6,A,2022,2022,486,Pipeline transportation,45.0,6
+6,A,2022,2022,487OS,Other transportation and support activities,218.3,6
+6,A,2022,2022,487OS,Gross operating surplus,77.9,6
+6,A,2022,2022,487OS,Compensation of employees,137.0,6
+6,A,2022,2022,487OS,Taxes on production and imports less subsidies,3.3,6
+6,A,2022,2022,48TW,Gross operating surplus,350.5,6
+6,A,2022,2022,48TW,Transportation and warehousing,916.3,6
+6,A,2022,2022,48TW,Compensation of employees,514.5,6
+6,A,2022,2022,48TW,Taxes on production and imports less subsidies,51.2,6
+6,A,2022,2022,493,Gross operating surplus,4.3,6
+6,A,2022,2022,493,Warehousing and storage,115.5,6
+6,A,2022,2022,493,Compensation of employees,110.0,6
+6,A,2022,2022,493,Taxes on production and imports less subsidies,1.3,6
+6,A,2022,2022,4A0,Other retail,883.6,6
+6,A,2022,2022,4A0,Compensation of employees,369.5,6
+6,A,2022,2022,4A0,Taxes on production and imports less subsidies,165.6,6
+6,A,2022,2022,4A0,Gross operating surplus,348.6,6
+6,A,2022,2022,51,Compensation of employees,514.5,6
+6,A,2022,2022,51,Information,1367.5,6
+6,A,2022,2022,51,Gross operating surplus,784.7,6
+6,A,2022,2022,51,Taxes on production and imports less subsidies,68.2,6
+6,A,2022,2022,511,Gross operating surplus,188.3,6
+6,A,2022,2022,511,Taxes on production and imports less subsidies,7.5,6
+6,A,2022,2022,511,Compensation of employees,161.8,6
+6,A,2022,2022,511,"Publishing industries, except internet (includes software)",357.6,6
+6,A,2022,2022,512,Taxes on production and imports less subsidies,5.7,6
+6,A,2022,2022,512,Gross operating surplus,60.8,6
+6,A,2022,2022,512,Motion picture and sound recording industries,113.6,6
+6,A,2022,2022,512,Compensation of employees,47.1,6
+6,A,2022,2022,513,Compensation of employees,118.5,6
+6,A,2022,2022,513,Broadcasting and telecommunications,484.2,6
+6,A,2022,2022,513,Taxes on production and imports less subsidies,47.0,6
+6,A,2022,2022,513,Gross operating surplus,318.6,6
+6,A,2022,2022,514,"Data processing, internet publishing, and other information services",412.1,6
+6,A,2022,2022,514,Gross operating surplus,217.0,6
+6,A,2022,2022,514,Compensation of employees,187.0,6
+6,A,2022,2022,514,Taxes on production and imports less subsidies,8.1,6
+6,A,2022,2022,52,Taxes on production and imports less subsidies,73.7,6
+6,A,2022,2022,52,Gross operating surplus,840.4,6
+6,A,2022,2022,52,Compensation of employees,1021.5,6
+6,A,2022,2022,52,Finance and insurance,1935.6,6
+6,A,2022,2022,521CI,Gross operating surplus,511.7,6
+6,A,2022,2022,521CI,Compensation of employees,342.7,6
+6,A,2022,2022,521CI,"Federal Reserve banks, credit intermediation, and related activities",878.5,6
+6,A,2022,2022,521CI,Taxes on production and imports less subsidies,24.1,6
+6,A,2022,2022,523,Gross operating surplus,16.6,6
+6,A,2022,2022,523,"Securities, commodity contracts, and investments",350.5,6
+6,A,2022,2022,523,Taxes on production and imports less subsidies,7.8,6
+6,A,2022,2022,523,Compensation of employees,326.1,6
+6,A,2022,2022,524,Compensation of employees,347.4,6
+6,A,2022,2022,524,Insurance carriers and related activities,686.8,6
+6,A,2022,2022,524,Gross operating surplus,298.4,6
+6,A,2022,2022,524,Taxes on production and imports less subsidies,41.0,6
+6,A,2022,2022,525,Taxes on production and imports less subsidies,0.8,6
+6,A,2022,2022,525,Gross operating surplus,13.7,6
+6,A,2022,2022,525,Compensation of employees,5.3,6
+6,A,2022,2022,525,"Funds, trusts, and other financial vehicles",19.8,6
+6,A,2022,2022,53,Taxes on production and imports less subsidies,363.7,6
+6,A,2022,2022,53,Gross operating surplus,2909.9,6
+6,A,2022,2022,53,Compensation of employees,208.3,6
+6,A,2022,2022,53,Real estate and rental and leasing,3481.9,6
+6,A,2022,2022,531,Taxes on production and imports less subsidies,335.8,6
+6,A,2022,2022,531,Compensation of employees,161.9,6
+6,A,2022,2022,531,Real estate,3167.0,6
+6,A,2022,2022,531,Gross operating surplus,2669.3,6
+6,A,2022,2022,532RL,Taxes on production and imports less subsidies,27.9,6
+6,A,2022,2022,532RL,Compensation of employees,46.4,6
+6,A,2022,2022,532RL,Gross operating surplus,240.6,6
+6,A,2022,2022,532RL,Rental and leasing services and lessors of intangible assets,314.9,6
+6,A,2022,2022,54,Gross operating surplus,568.6,6
+6,A,2022,2022,54,Taxes on production and imports less subsidies,60.5,6
+6,A,2022,2022,54,Compensation of employees,1431.6,6
+6,A,2022,2022,54,"Professional, scientific, and technical services",2060.7,6
+6,A,2022,2022,5411,Legal services,348.8,6
+6,A,2022,2022,5411,Compensation of employees,168.1,6
+6,A,2022,2022,5411,Gross operating surplus,154.1,6
+6,A,2022,2022,5411,Taxes on production and imports less subsidies,26.6,6
+6,A,2022,2022,5412OP,Taxes on production and imports less subsidies,21.9,6
+6,A,2022,2022,5412OP,Compensation of employees,865.1,6
+6,A,2022,2022,5412OP,Gross operating surplus,360.9,6
+6,A,2022,2022,5412OP,"Miscellaneous professional, scientific, and technical services",1248.0,6
+6,A,2022,2022,5415,Taxes on production and imports less subsidies,12.0,6
+6,A,2022,2022,5415,Gross operating surplus,53.6,6
+6,A,2022,2022,5415,Computer systems design and related services,463.9,6
+6,A,2022,2022,5415,Compensation of employees,398.3,6
+6,A,2022,2022,55,Management of companies and enterprises,482.6,6
+6,A,2022,2022,55,Taxes on production and imports less subsidies,12.1,6
+6,A,2022,2022,55,Gross operating surplus,43.2,6
+6,A,2022,2022,55,Compensation of employees,427.3,6
+6,A,2022,2022,56,Gross operating surplus,203.9,6
+6,A,2022,2022,56,Taxes on production and imports less subsidies,20.5,6
+6,A,2022,2022,56,Administrative and waste management services,837.7,6
+6,A,2022,2022,56,Compensation of employees,613.2,6
+6,A,2022,2022,561,Gross operating surplus,175.9,6
+6,A,2022,2022,561,Taxes on production and imports less subsidies,15.5,6
+6,A,2022,2022,561,Administrative and support services,763.7,6
+6,A,2022,2022,561,Compensation of employees,572.4,6
+6,A,2022,2022,562,Compensation of employees,40.9,6
+6,A,2022,2022,562,Waste management and remediation services,74.0,6
+6,A,2022,2022,562,Gross operating surplus,28.0,6
+6,A,2022,2022,562,Taxes on production and imports less subsidies,5.1,6
+6,A,2022,2022,6,Taxes on production and imports less subsidies,35.6,6
+6,A,2022,2022,6,Compensation of employees,1781.3,6
+6,A,2022,2022,6,"Educational services, health care, and social assistance",2151.4,6
+6,A,2022,2022,6,Gross operating surplus,334.6,6
+6,A,2022,2022,61,Taxes on production and imports less subsidies,12.1,6
+6,A,2022,2022,61,Compensation of employees,239.9,6
+6,A,2022,2022,61,Educational services,292.0,6
+6,A,2022,2022,61,Gross operating surplus,40.1,6
+6,A,2022,2022,62,Health care and social assistance,1859.4,6
+6,A,2022,2022,62,Gross operating surplus,294.5,6
+6,A,2022,2022,62,Taxes on production and imports less subsidies,23.6,6
+6,A,2022,2022,62,Compensation of employees,1541.4,6
+6,A,2022,2022,621,Gross operating surplus,182.1,6
+6,A,2022,2022,621,Taxes on production and imports less subsidies,5.6,6
+6,A,2022,2022,621,Compensation of employees,718.5,6
+6,A,2022,2022,621,Ambulatory health care services,906.2,6
+6,A,2022,2022,622,Compensation of employees,493.3,6
+6,A,2022,2022,622,Taxes on production and imports less subsidies,15.5,6
+6,A,2022,2022,622,Hospitals,595.1,6
+6,A,2022,2022,622,Gross operating surplus,86.2,6
+6,A,2022,2022,623,Gross operating surplus,10.1,6
+6,A,2022,2022,623,Taxes on production and imports less subsidies,7.6,6
+6,A,2022,2022,623,Compensation of employees,162.1,6
+6,A,2022,2022,623,Nursing and residential care facilities,179.8,6
+6,A,2022,2022,624,Taxes on production and imports less subsidies,-5.2,6
+6,A,2022,2022,624,Compensation of employees,167.5,6
+6,A,2022,2022,624,Gross operating surplus,16.1,6
+6,A,2022,2022,624,Social assistance,178.3,6
+6,A,2022,2022,7,Taxes on production and imports less subsidies,150.9,6
+6,A,2022,2022,7,Compensation of employees,639.5,6
+6,A,2022,2022,7,"Arts, entertainment, recreation, accommodation, and food services",1067.9,6
+6,A,2022,2022,7,Gross operating surplus,277.5,6
+6,A,2022,2022,71,Taxes on production and imports less subsidies,30.6,6
+6,A,2022,2022,71,Gross operating surplus,89.3,6
+6,A,2022,2022,71,"Arts, entertainment, and recreation",264.2,6
+6,A,2022,2022,71,Compensation of employees,144.3,6
+6,A,2022,2022,711AS,Compensation of employees,75.8,6
+6,A,2022,2022,711AS,Gross operating surplus,67.4,6
+6,A,2022,2022,711AS,"Performing arts, spectator sports, museums, and related activities",149.3,6
+6,A,2022,2022,711AS,Taxes on production and imports less subsidies,6.1,6
+6,A,2022,2022,713,"Amusements, gambling, and recreation industries",114.9,6
+6,A,2022,2022,713,Compensation of employees,68.4,6
+6,A,2022,2022,713,Taxes on production and imports less subsidies,24.5,6
+6,A,2022,2022,713,Gross operating surplus,22.0,6
+6,A,2022,2022,72,Accommodation and food services,803.7,6
+6,A,2022,2022,72,Gross operating surplus,188.2,6
+6,A,2022,2022,72,Taxes on production and imports less subsidies,120.3,6
+6,A,2022,2022,72,Compensation of employees,495.2,6
+6,A,2022,2022,721,Taxes on production and imports less subsidies,41.0,6
+6,A,2022,2022,721,Gross operating surplus,83.9,6
+6,A,2022,2022,721,Compensation of employees,93.0,6
+6,A,2022,2022,721,Accommodation,217.9,6
+6,A,2022,2022,722,Taxes on production and imports less subsidies,79.3,6
+6,A,2022,2022,722,Food services and drinking places,585.8,6
+6,A,2022,2022,722,Gross operating surplus,104.3,6
+6,A,2022,2022,722,Compensation of employees,402.2,6
+6,A,2022,2022,81,Compensation of employees,392.7,6
+6,A,2022,2022,81,"Other services, except government",549.3,6
+6,A,2022,2022,81,Gross operating surplus,124.0,6
+6,A,2022,2022,81,Taxes on production and imports less subsidies,32.6,6
+6,A,2022,2022,FIRE,Compensation of employees,1229.8,6
+6,A,2022,2022,FIRE,Taxes on production and imports less subsidies,437.4,6
+6,A,2022,2022,FIRE,"Finance, insurance, real estate, rental, and leasing",5417.5,6
+6,A,2022,2022,FIRE,Gross operating surplus,3750.3,6
+6,A,2022,2022,G,Gross operating surplus,725.7,6
+6,A,2022,2022,G,Taxes on production and imports less subsidies,-60.1,6
+6,A,2022,2022,G,Compensation of employees,2272.9,6
+6,A,2022,2022,G,Government,2938.6,6
+6,A,2022,2022,GDP,Compensation of employees,13454.1,6
+6,A,2022,2022,GDP,Gross operating surplus,10830.5,6
+6,A,2022,2022,GDP,Taxes on production and imports less subsidies,1722.2,6
+6,A,2022,2022,GDP,Gross domestic product,26006.9,6
+6,A,2022,2022,GF,Compensation of employees,594.1,6
+6,A,2022,2022,GF,Federal,944.9,6
+6,A,2022,2022,GF,Taxes on production and imports less subsidies,-11.9,6
+6,A,2022,2022,GF,Gross operating surplus,362.7,6
+6,A,2022,2022,GFE,Government enterprises,73.5,6
+6,A,2022,2022,GFE,Gross operating surplus,17.0,6
+6,A,2022,2022,GFE,Compensation of employees,68.4,6
+6,A,2022,2022,GFE,Taxes on production and imports less subsidies,-11.9,6
+6,A,2022,2022,GFG,General government,871.4,6
+6,A,2022,2022,GFG,Gross operating surplus,345.7,6
+6,A,2022,2022,GFG,Compensation of employees,525.7,6
+6,A,2022,2022,GFGD,Gross operating surplus,193.5,6
+6,A,2022,2022,GFGD,National defense,497.5,6
+6,A,2022,2022,GFGD,Compensation of employees,304.0,6
+6,A,2022,2022,GFGN,Nondefense,373.9,6
+6,A,2022,2022,GFGN,Gross operating surplus,152.2,6
+6,A,2022,2022,GFGN,Compensation of employees,221.7,6
+6,A,2022,2022,GSL,Taxes on production and imports less subsidies,-48.1,6
+6,A,2022,2022,GSL,Compensation of employees,1678.8,6
+6,A,2022,2022,GSL,Gross operating surplus,363.0,6
+6,A,2022,2022,GSL,State and local,1993.7,6
+6,A,2022,2022,GSLE,Compensation of employees,123.1,6
+6,A,2022,2022,GSLE,Taxes on production and imports less subsidies,-48.1,6
+6,A,2022,2022,GSLE,Gross operating surplus,77.4,6
+6,A,2022,2022,GSLE,Government enterprises,152.4,6
+6,A,2022,2022,GSLG,Gross operating surplus,285.6,6
+6,A,2022,2022,GSLG,Compensation of employees,1555.7,6
+6,A,2022,2022,GSLG,General government,1841.3,6
+6,A,2022,2022,HS,Taxes on production and imports less subsidies,297.2,6
+6,A,2022,2022,HS,Gross operating surplus,2091.4,6
+6,A,2022,2022,HS,Housing,2414.2,6
+6,A,2022,2022,HS,Compensation of employees,25.7,6
+6,A,2022,2022,ICT,Taxes on production and imports less subsidies,79.4,6
+6,A,2022,2022,ICT,Gross operating surplus,794.8,6
+6,A,2022,2022,ICT,Information-communications-technology-producing industries <sup>3</sup>,1812.2,6
+6,A,2022,2022,ICT,Compensation of employees,938.0,6
+6,A,2022,2022,ORE,Compensation of employees,136.3,6
+6,A,2022,2022,ORE,Taxes on production and imports less subsidies,38.6,6
+6,A,2022,2022,ORE,Other real estate,752.8,6
+6,A,2022,2022,ORE,Gross operating surplus,577.9,6
+6,A,2022,2022,PGOOD,Gross operating surplus,2261.4,6
+6,A,2022,2022,PGOOD,Taxes on production and imports less subsidies,183.1,6
+6,A,2022,2022,PGOOD,Private goods-producing industries <sup>1</sup>,4549.4,6
+6,A,2022,2022,PGOOD,Compensation of employees,2104.8,6
+6,A,2022,2022,PROF,Taxes on production and imports less subsidies,93.2,6
+6,A,2022,2022,PROF,Compensation of employees,2472.2,6
+6,A,2022,2022,PROF,Gross operating surplus,815.7,6
+6,A,2022,2022,PROF,Professional and business services,3381.0,6
+6,A,2022,2022,PSERV,Private services-producing industries <sup>2</sup>,18519.0,6
+6,A,2022,2022,PSERV,Taxes on production and imports less subsidies,1599.2,6
+6,A,2022,2022,PSERV,Gross operating surplus,7843.4,6
+6,A,2022,2022,PSERV,Compensation of employees,9076.4,6
+6,A,2022,2022,PVT,Private industries,23068.3,6
+6,A,2022,2022,PVT,Gross operating surplus,10104.8,6
+6,A,2022,2022,PVT,Compensation of employees,11181.2,6
+6,A,2022,2022,PVT,Taxes on production and imports less subsidies,1782.3,6
+6,A,2023,2023,11,"Agriculture, forestry, fishing, and hunting",274.2,6
+6,A,2023,2023,11,Compensation of employees,71.5,6
+6,A,2023,2023,11,Gross operating surplus,196.7,6
+6,A,2023,2023,11,Taxes on production and imports less subsidies,5.9,6
+6,A,2023,2023,111CA,Taxes on production and imports less subsidies,3.3,6
+6,A,2023,2023,111CA,Gross operating surplus,181.3,6
+6,A,2023,2023,111CA,Farms,222.3,6
+6,A,2023,2023,111CA,Compensation of employees,37.6,6
+6,A,2023,2023,113FF,"Forestry, fishing, and related activities",51.9,6
+6,A,2023,2023,113FF,Gross operating surplus,15.4,6
+6,A,2023,2023,113FF,Compensation of employees,33.9,6
+6,A,2023,2023,113FF,Taxes on production and imports less subsidies,2.6,6
+6,A,2023,2023,21,Gross operating surplus,263.5,6
+6,A,2023,2023,21,Mining,411.8,6
+6,A,2023,2023,21,Taxes on production and imports less subsidies,61.0,6
+6,A,2023,2023,21,Compensation of employees,87.3,6
+6,A,2023,2023,211,Taxes on production and imports less subsidies,50.0,6
+6,A,2023,2023,211,Compensation of employees,29.0,6
+6,A,2023,2023,211,Oil and gas extraction,257.0,6
+6,A,2023,2023,211,Gross operating surplus,178.0,6
+6,A,2023,2023,212,Compensation of employees,22.3,6
+6,A,2023,2023,212,Taxes on production and imports less subsidies,8.2,6
+6,A,2023,2023,212,"Mining, except oil and gas",83.2,6
+6,A,2023,2023,212,Gross operating surplus,52.6,6
+6,A,2023,2023,213,Gross operating surplus,32.9,6
+6,A,2023,2023,213,Taxes on production and imports less subsidies,2.8,6
+6,A,2023,2023,213,Compensation of employees,35.9,6
+6,A,2023,2023,213,Support activities for mining,71.6,6
+6,A,2023,2023,22,Compensation of employees,97.4,6
+6,A,2023,2023,22,Taxes on production and imports less subsidies,79.5,6
+6,A,2023,2023,22,Utilities,446.5,6
+6,A,2023,2023,22,Gross operating surplus,269.6,6
+6,A,2023,2023,23,Taxes on production and imports less subsidies,14.7,6
+6,A,2023,2023,23,Gross operating surplus,461.9,6
+6,A,2023,2023,23,Compensation of employees,744.0,6
+6,A,2023,2023,23,Construction,1220.6,6
+6,A,2023,2023,311FT,Gross operating surplus,154.0,6
+6,A,2023,2023,311FT,Food and beverage and tobacco products,335.2,6
+6,A,2023,2023,311FT,Taxes on production and imports less subsidies,28.7,6
+6,A,2023,2023,311FT,Compensation of employees,152.5,6
+6,A,2023,2023,313TT,Gross operating surplus,3.6,6
+6,A,2023,2023,313TT,Textile mills and textile product mills,17.0,6
+6,A,2023,2023,313TT,Compensation of employees,12.6,6
+6,A,2023,2023,313TT,Taxes on production and imports less subsidies,0.8,6
+6,A,2023,2023,315AL,Taxes on production and imports less subsidies,0.4,6
+6,A,2023,2023,315AL,Compensation of employees,7.9,6
+6,A,2023,2023,315AL,Apparel and leather and allied products,12.4,6
+6,A,2023,2023,315AL,Gross operating surplus,4.1,6
+6,A,2023,2023,31G,Taxes on production and imports less subsidies,106.1,6
+6,A,2023,2023,31G,Compensation of employees,1324.9,6
+6,A,2023,2023,31G,Manufacturing,2840.4,6
+6,A,2023,2023,31G,Gross operating surplus,1409.4,6
+6,A,2023,2023,31ND,Taxes on production and imports less subsidies,64.7,6
+6,A,2023,2023,31ND,Compensation of employees,448.3,6
+6,A,2023,2023,31ND,Nondurable goods,1328.5,6
+6,A,2023,2023,31ND,Gross operating surplus,815.5,6
+6,A,2023,2023,321,Taxes on production and imports less subsidies,1.1,6
+6,A,2023,2023,321,Compensation of employees,31.8,6
+6,A,2023,2023,321,Wood products,62.1,6
+6,A,2023,2023,321,Gross operating surplus,29.2,6
+6,A,2023,2023,322,Taxes on production and imports less subsidies,2.4,6
+6,A,2023,2023,322,Compensation of employees,35.6,6
+6,A,2023,2023,322,Paper products,74.7,6
+6,A,2023,2023,322,Gross operating surplus,36.7,6
+6,A,2023,2023,323,Taxes on production and imports less subsidies,1.0,6
+6,A,2023,2023,323,Compensation of employees,26.7,6
+6,A,2023,2023,323,Printing and related support activities,42.9,6
+6,A,2023,2023,323,Gross operating surplus,15.1,6
+6,A,2023,2023,324,Taxes on production and imports less subsidies,5.4,6
+6,A,2023,2023,324,Compensation of employees,21.5,6
+6,A,2023,2023,324,Petroleum and coal products,216.8,6
+6,A,2023,2023,324,Gross operating surplus,189.9,6
+6,A,2023,2023,325,Taxes on production and imports less subsidies,23.2,6
+6,A,2023,2023,325,Compensation of employees,130.9,6
+6,A,2023,2023,325,Chemical products,531.8,6
+6,A,2023,2023,325,Gross operating surplus,377.8,6
+6,A,2023,2023,326,Taxes on production and imports less subsidies,2.8,6
+6,A,2023,2023,326,Compensation of employees,60.6,6
+6,A,2023,2023,326,Plastics and rubber products,97.7,6
+6,A,2023,2023,326,Gross operating surplus,34.3,6
+6,A,2023,2023,327,Taxes on production and imports less subsidies,2.1,6
+6,A,2023,2023,327,Compensation of employees,37.6,6
+6,A,2023,2023,327,Nonmetallic mineral products,76.7,6
+6,A,2023,2023,327,Gross operating surplus,37.0,6
+6,A,2023,2023,331,Taxes on production and imports less subsidies,3.4,6
+6,A,2023,2023,331,Compensation of employees,40.2,6
+6,A,2023,2023,331,Primary metals,84.0,6
+6,A,2023,2023,331,Gross operating surplus,40.4,6
+6,A,2023,2023,332,Compensation of employees,122.8,6
+6,A,2023,2023,332,Fabricated metal products,188.6,6
+6,A,2023,2023,332,Gross operating surplus,60.9,6
+6,A,2023,2023,332,Taxes on production and imports less subsidies,5.0,6
+6,A,2023,2023,333,Taxes on production and imports less subsidies,5.0,6
+6,A,2023,2023,333,Compensation of employees,116.5,6
+6,A,2023,2023,333,Machinery,200.4,6
+6,A,2023,2023,333,Gross operating surplus,78.9,6
+6,A,2023,2023,334,Gross operating surplus,99.2,6
+6,A,2023,2023,334,Taxes on production and imports less subsidies,11.5,6
+6,A,2023,2023,334,Compensation of employees,197.5,6
+6,A,2023,2023,334,Computer and electronic products,308.1,6
+6,A,2023,2023,335,Gross operating surplus,29.9,6
+6,A,2023,2023,335,"Electrical equipment, appliances, and components",76.1,6
+6,A,2023,2023,335,Compensation of employees,45.0,6
+6,A,2023,2023,335,Taxes on production and imports less subsidies,1.2,6
+6,A,2023,2023,3361MV,Gross operating surplus,77.6,6
+6,A,2023,2023,3361MV,"Motor vehicles, bodies and trailers, and parts",176.4,6
+6,A,2023,2023,3361MV,Compensation of employees,93.7,6
+6,A,2023,2023,3361MV,Taxes on production and imports less subsidies,5.1,6
+6,A,2023,2023,3364OT,Gross operating surplus,86.9,6
+6,A,2023,2023,3364OT,Taxes on production and imports less subsidies,4.0,6
+6,A,2023,2023,3364OT,Compensation of employees,99.5,6
+6,A,2023,2023,3364OT,Other transportation equipment,190.3,6
+6,A,2023,2023,337,Gross operating surplus,7.1,6
+6,A,2023,2023,337,Furniture and related products,32.3,6
+6,A,2023,2023,337,Taxes on production and imports less subsidies,0.6,6
+6,A,2023,2023,337,Compensation of employees,24.6,6
+6,A,2023,2023,339,Gross operating surplus,46.8,6
+6,A,2023,2023,339,Miscellaneous manufacturing,116.9,6
+6,A,2023,2023,339,Compensation of employees,67.5,6
+6,A,2023,2023,339,Taxes on production and imports less subsidies,2.5,6
+6,A,2023,2023,33DG,Gross operating surplus,593.9,6
+6,A,2023,2023,33DG,Durable goods,1511.9,6
+6,A,2023,2023,33DG,Compensation of employees,876.6,6
+6,A,2023,2023,33DG,Taxes on production and imports less subsidies,41.4,6
+6,A,2023,2023,42,Taxes on production and imports less subsidies,308.1,6
+6,A,2023,2023,42,Compensation of employees,706.7,6
+6,A,2023,2023,42,Wholesale trade,1653.0,6
+6,A,2023,2023,42,Gross operating surplus,638.2,6
+6,A,2023,2023,441,Gross operating surplus,123.7,6
+6,A,2023,2023,441,Taxes on production and imports less subsidies,70.5,6
+6,A,2023,2023,441,Compensation of employees,167.5,6
+6,A,2023,2023,441,Motor vehicle and parts dealers,361.7,6
+6,A,2023,2023,445,Taxes on production and imports less subsidies,36.7,6
+6,A,2023,2023,445,Compensation of employees,132.8,6
+6,A,2023,2023,445,Food and beverage stores,231.7,6
+6,A,2023,2023,445,Gross operating surplus,62.3,6
+6,A,2023,2023,44RT,Taxes on production and imports less subsidies,335.9,6
+6,A,2023,2023,44RT,Compensation of employees,804.7,6
+6,A,2023,2023,44RT,Retail trade,1772.4,6
+6,A,2023,2023,44RT,Gross operating surplus,631.8,6
+6,A,2023,2023,452,Taxes on production and imports less subsidies,57.4,6
+6,A,2023,2023,452,Compensation of employees,117.6,6
+6,A,2023,2023,452,General merchandise stores,203.2,6
+6,A,2023,2023,452,Gross operating surplus,28.2,6
+6,A,2023,2023,481,Taxes on production and imports less subsidies,34.9,6
+6,A,2023,2023,481,Compensation of employees,79.1,6
+6,A,2023,2023,481,Air transportation,166.6,6
+6,A,2023,2023,481,Gross operating surplus,52.6,6
+6,A,2023,2023,482,Taxes on production and imports less subsidies,-1.5,6
+6,A,2023,2023,482,Compensation of employees,23.3,6
+6,A,2023,2023,482,Rail transportation,53.1,6
+6,A,2023,2023,482,Gross operating surplus,31.2,6
+6,A,2023,2023,483,Gross operating surplus,13.9,6
+6,A,2023,2023,483,Water transportation,24.5,6
+6,A,2023,2023,483,Taxes on production and imports less subsidies,1.4,6
+6,A,2023,2023,483,Compensation of employees,9.2,6
+6,A,2023,2023,484,Gross operating surplus,116.4,6
+6,A,2023,2023,484,Truck transportation,256.6,6
+6,A,2023,2023,484,Compensation of employees,134.0,6
+6,A,2023,2023,484,Taxes on production and imports less subsidies,6.2,6
+6,A,2023,2023,485,Compensation of employees,33.6,6
+6,A,2023,2023,485,Transit and ground passenger transportation,68.9,6
+6,A,2023,2023,485,Taxes on production and imports less subsidies,2.8,6
+6,A,2023,2023,485,Gross operating surplus,32.5,6
+6,A,2023,2023,486,Taxes on production and imports less subsidies,4.7,6
+6,A,2023,2023,486,Compensation of employees,10.0,6
+6,A,2023,2023,486,Pipeline transportation,48.7,6
+6,A,2023,2023,486,Gross operating surplus,34.0,6
+6,A,2023,2023,487OS,Taxes on production and imports less subsidies,3.6,6
+6,A,2023,2023,487OS,Compensation of employees,142.1,6
+6,A,2023,2023,487OS,Other transportation and support activities,207.6,6
+6,A,2023,2023,487OS,Gross operating surplus,61.8,6
+6,A,2023,2023,48TW,Taxes on production and imports less subsidies,53.6,6
+6,A,2023,2023,48TW,Gross operating surplus,346.9,6
+6,A,2023,2023,48TW,Transportation and warehousing,943.7,6
+6,A,2023,2023,48TW,Compensation of employees,543.3,6
+6,A,2023,2023,493,Compensation of employees,111.9,6
+6,A,2023,2023,493,Warehousing and storage,117.8,6
+6,A,2023,2023,493,Gross operating surplus,4.5,6
+6,A,2023,2023,493,Taxes on production and imports less subsidies,1.4,6
+6,A,2023,2023,4A0,Taxes on production and imports less subsidies,171.3,6
+6,A,2023,2023,4A0,Compensation of employees,386.8,6
+6,A,2023,2023,4A0,Other retail,975.8,6
+6,A,2023,2023,4A0,Gross operating surplus,417.6,6
+6,A,2023,2023,51,Compensation of employees,540.3,6
+6,A,2023,2023,51,Information,1477.9,6
+6,A,2023,2023,51,Taxes on production and imports less subsidies,65.4,6
+6,A,2023,2023,51,Gross operating surplus,872.2,6
+6,A,2023,2023,511,Gross operating surplus,218.4,6
+6,A,2023,2023,511,Taxes on production and imports less subsidies,8.0,6
+6,A,2023,2023,511,Compensation of employees,175.2,6
+6,A,2023,2023,511,"Publishing industries, except internet (includes software)",401.5,6
+6,A,2023,2023,512,Gross operating surplus,67.5,6
+6,A,2023,2023,512,Taxes on production and imports less subsidies,6.7,6
+6,A,2023,2023,512,Motion picture and sound recording industries,114.0,6
+6,A,2023,2023,512,Compensation of employees,39.8,6
+6,A,2023,2023,513,Compensation of employees,122.0,6
+6,A,2023,2023,513,Broadcasting and telecommunications,493.0,6
+6,A,2023,2023,513,Taxes on production and imports less subsidies,42.5,6
+6,A,2023,2023,513,Gross operating surplus,328.4,6
+6,A,2023,2023,514,Compensation of employees,203.3,6
+6,A,2023,2023,514,Taxes on production and imports less subsidies,8.2,6
+6,A,2023,2023,514,"Data processing, internet publishing, and other information services",469.4,6
+6,A,2023,2023,514,Gross operating surplus,257.9,6
+6,A,2023,2023,52,Taxes on production and imports less subsidies,78.5,6
+6,A,2023,2023,52,Compensation of employees,1062.2,6
+6,A,2023,2023,52,Finance and insurance,2015.6,6
+6,A,2023,2023,52,Gross operating surplus,874.9,6
+6,A,2023,2023,521CI,Compensation of employees,349.5,6
+6,A,2023,2023,521CI,"Federal Reserve banks, credit intermediation, and related activities",913.4,6
+6,A,2023,2023,521CI,Taxes on production and imports less subsidies,24.1,6
+6,A,2023,2023,521CI,Gross operating surplus,539.8,6
+6,A,2023,2023,523,Taxes on production and imports less subsidies,8.2,6
+6,A,2023,2023,523,Compensation of employees,337.6,6
+6,A,2023,2023,523,"Securities, commodity contracts, and investments",362.2,6
+6,A,2023,2023,523,Gross operating surplus,16.5,6
+6,A,2023,2023,524,Taxes on production and imports less subsidies,45.4,6
+6,A,2023,2023,524,Compensation of employees,369.0,6
+6,A,2023,2023,524,Gross operating surplus,306.8,6
+6,A,2023,2023,524,Insurance carriers and related activities,721.1,6
+6,A,2023,2023,525,Gross operating surplus,11.9,6
+6,A,2023,2023,525,Taxes on production and imports less subsidies,0.8,6
+6,A,2023,2023,525,"Funds, trusts, and other financial vehicles",18.8,6
+6,A,2023,2023,525,Compensation of employees,6.1,6
+6,A,2023,2023,53,Taxes on production and imports less subsidies,389.5,6
+6,A,2023,2023,53,Compensation of employees,214.7,6
+6,A,2023,2023,53,Real estate and rental and leasing,3796.0,6
+6,A,2023,2023,53,Gross operating surplus,3191.8,6
+6,A,2023,2023,531,Compensation of employees,164.6,6
+6,A,2023,2023,531,Real estate,3447.1,6
+6,A,2023,2023,531,Gross operating surplus,2921.9,6
+6,A,2023,2023,531,Taxes on production and imports less subsidies,360.6,6
+6,A,2023,2023,532RL,Gross operating surplus,269.9,6
+6,A,2023,2023,532RL,Rental and leasing services and lessors of intangible assets,348.9,6
+6,A,2023,2023,532RL,Compensation of employees,50.1,6
+6,A,2023,2023,532RL,Taxes on production and imports less subsidies,28.9,6
+6,A,2023,2023,54,Gross operating surplus,646.7,6
+6,A,2023,2023,54,"Professional, scientific, and technical services",2222.0,6
+6,A,2023,2023,54,Compensation of employees,1516.1,6
+6,A,2023,2023,54,Taxes on production and imports less subsidies,59.1,6
+6,A,2023,2023,5411,Compensation of employees,176.1,6
+6,A,2023,2023,5411,Legal services,362.7,6
+6,A,2023,2023,5411,Gross operating surplus,162.9,6
+6,A,2023,2023,5411,Taxes on production and imports less subsidies,23.8,6
+6,A,2023,2023,5412OP,Compensation of employees,922.2,6
+6,A,2023,2023,5412OP,"Miscellaneous professional, scientific, and technical services",1370.0,6
+6,A,2023,2023,5412OP,Gross operating surplus,424.5,6
+6,A,2023,2023,5412OP,Taxes on production and imports less subsidies,23.4,6
+6,A,2023,2023,5415,Taxes on production and imports less subsidies,12.0,6
+6,A,2023,2023,5415,Gross operating surplus,59.4,6
+6,A,2023,2023,5415,Computer systems design and related services,489.2,6
+6,A,2023,2023,5415,Compensation of employees,417.9,6
+6,A,2023,2023,55,Gross operating surplus,46.2,6
+6,A,2023,2023,55,Management of companies and enterprises,503.1,6
+6,A,2023,2023,55,Compensation of employees,444.2,6
+6,A,2023,2023,55,Taxes on production and imports less subsidies,12.7,6
+6,A,2023,2023,56,Compensation of employees,630.4,6
+6,A,2023,2023,56,Administrative and waste management services,886.6,6
+6,A,2023,2023,56,Gross operating surplus,235.0,6
+6,A,2023,2023,56,Taxes on production and imports less subsidies,21.3,6
+6,A,2023,2023,561,Compensation of employees,584.8,6
+6,A,2023,2023,561,Administrative and support services,804.5,6
+6,A,2023,2023,561,Gross operating surplus,203.7,6
+6,A,2023,2023,561,Taxes on production and imports less subsidies,16.1,6
+6,A,2023,2023,562,Compensation of employees,45.6,6
+6,A,2023,2023,562,Waste management and remediation services,82.1,6
+6,A,2023,2023,562,Gross operating surplus,31.3,6
+6,A,2023,2023,562,Taxes on production and imports less subsidies,5.2,6
+6,A,2023,2023,6,"Educational services, health care, and social assistance",2350.9,6
+6,A,2023,2023,6,Compensation of employees,1903.6,6
+6,A,2023,2023,6,Taxes on production and imports less subsidies,49.1,6
+6,A,2023,2023,6,Gross operating surplus,398.3,6
+6,A,2023,2023,61,Compensation of employees,252.7,6
+6,A,2023,2023,61,Educational services,312.0,6
+6,A,2023,2023,61,Gross operating surplus,46.4,6
+6,A,2023,2023,61,Taxes on production and imports less subsidies,13.0,6
+6,A,2023,2023,62,Taxes on production and imports less subsidies,36.1,6
+6,A,2023,2023,62,Compensation of employees,1650.9,6
+6,A,2023,2023,62,Health care and social assistance,2038.9,6
+6,A,2023,2023,62,Gross operating surplus,351.9,6
+6,A,2023,2023,621,Gross operating surplus,222.3,6
+6,A,2023,2023,621,Ambulatory health care services,1000.5,6
+6,A,2023,2023,621,Compensation of employees,765.6,6
+6,A,2023,2023,621,Taxes on production and imports less subsidies,12.6,6
+6,A,2023,2023,622,Taxes on production and imports less subsidies,19.6,6
+6,A,2023,2023,622,Gross operating surplus,99.2,6
+6,A,2023,2023,622,Hospitals,643.8,6
+6,A,2023,2023,622,Compensation of employees,525.0,6
+6,A,2023,2023,623,Taxes on production and imports less subsidies,8.7,6
+6,A,2023,2023,623,Gross operating surplus,12.5,6
+6,A,2023,2023,623,Nursing and residential care facilities,196.5,6
+6,A,2023,2023,623,Compensation of employees,175.3,6
+6,A,2023,2023,624,Gross operating surplus,17.9,6
+6,A,2023,2023,624,Social assistance,198.0,6
+6,A,2023,2023,624,Compensation of employees,184.9,6
+6,A,2023,2023,624,Taxes on production and imports less subsidies,-4.8,6
+6,A,2023,2023,7,Gross operating surplus,350.0,6
+6,A,2023,2023,7,Taxes on production and imports less subsidies,163.5,6
+6,A,2023,2023,7,"Arts, entertainment, recreation, accommodation, and food services",1211.5,6
+6,A,2023,2023,7,Compensation of employees,697.9,6
+6,A,2023,2023,71,"Arts, entertainment, and recreation",299.7,6
+6,A,2023,2023,71,Gross operating surplus,105.1,6
+6,A,2023,2023,71,Compensation of employees,158.2,6
+6,A,2023,2023,71,Taxes on production and imports less subsidies,36.5,6
+6,A,2023,2023,711AS,Taxes on production and imports less subsidies,10.0,6
+6,A,2023,2023,711AS,Compensation of employees,82.2,6
+6,A,2023,2023,711AS,"Performing arts, spectator sports, museums, and related activities",171.2,6
+6,A,2023,2023,711AS,Gross operating surplus,79.0,6
+6,A,2023,2023,713,Taxes on production and imports less subsidies,26.4,6
+6,A,2023,2023,713,Compensation of employees,75.9,6
+6,A,2023,2023,713,"Amusements, gambling, and recreation industries",128.5,6
+6,A,2023,2023,713,Gross operating surplus,26.1,6
+6,A,2023,2023,72,Taxes on production and imports less subsidies,127.1,6
+6,A,2023,2023,72,Gross operating surplus,244.9,6
+6,A,2023,2023,72,Accommodation and food services,911.8,6
+6,A,2023,2023,72,Compensation of employees,539.7,6
+6,A,2023,2023,721,Gross operating surplus,100.1,6
+6,A,2023,2023,721,Taxes on production and imports less subsidies,43.2,6
+6,A,2023,2023,721,Accommodation,245.6,6
+6,A,2023,2023,721,Compensation of employees,102.3,6
+6,A,2023,2023,722,Taxes on production and imports less subsidies,83.9,6
+6,A,2023,2023,722,Compensation of employees,437.5,6
+6,A,2023,2023,722,Food services and drinking places,666.2,6
+6,A,2023,2023,722,Gross operating surplus,144.9,6
+6,A,2023,2023,81,Compensation of employees,411.4,6
+6,A,2023,2023,81,"Other services, except government",589.4,6
+6,A,2023,2023,81,Gross operating surplus,143.7,6
+6,A,2023,2023,81,Taxes on production and imports less subsidies,34.3,6
+6,A,2023,2023,FIRE,Compensation of employees,1276.8,6
+6,A,2023,2023,FIRE,Taxes on production and imports less subsidies,468.0,6
+6,A,2023,2023,FIRE,"Finance, insurance, real estate, rental, and leasing",5811.6,6
+6,A,2023,2023,FIRE,Gross operating surplus,4066.8,6
+6,A,2023,2023,G,Gross operating surplus,744.1,6
+6,A,2023,2023,G,Taxes on production and imports less subsidies,-47.9,6
+6,A,2023,2023,G,Compensation of employees,2408.9,6
+6,A,2023,2023,G,Government,3105.1,6
+6,A,2023,2023,GDP,Taxes on production and imports less subsidies,1790.3,6
+6,A,2023,2023,GDP,Compensation of employees,14209.6,6
+6,A,2023,2023,GDP,Gross domestic product,27720.7,6
+6,A,2023,2023,GDP,Gross operating surplus,11720.8,6
+6,A,2023,2023,GF,Taxes on production and imports less subsidies,-11.5,6
+6,A,2023,2023,GF,Gross operating surplus,375.3,6
+6,A,2023,2023,GF,Compensation of employees,634.9,6
+6,A,2023,2023,GF,Federal,998.8,6
+6,A,2023,2023,GFE,Taxes on production and imports less subsidies,-11.5,6
+6,A,2023,2023,GFE,Gross operating surplus,10.4,6
+6,A,2023,2023,GFE,Government enterprises,69.1,6
+6,A,2023,2023,GFE,Compensation of employees,70.2,6
+6,A,2023,2023,GFG,General government,929.7,6
+6,A,2023,2023,GFG,Compensation of employees,564.7,6
+6,A,2023,2023,GFG,Gross operating surplus,365.0,6
+6,A,2023,2023,GFGD,National defense,524.1,6
+6,A,2023,2023,GFGD,Compensation of employees,322.1,6
+6,A,2023,2023,GFGD,Gross operating surplus,202.0,6
+6,A,2023,2023,GFGN,Nondefense,405.6,6
+6,A,2023,2023,GFGN,Compensation of employees,242.6,6
+6,A,2023,2023,GFGN,Gross operating surplus,163.0,6
+6,A,2023,2023,GSL,Taxes on production and imports less subsidies,-36.4,6
+6,A,2023,2023,GSL,Compensation of employees,1774.0,6
+6,A,2023,2023,GSL,State and local,2106.3,6
+6,A,2023,2023,GSL,Gross operating surplus,368.7,6
+6,A,2023,2023,GSLE,Gross operating surplus,65.5,6
+6,A,2023,2023,GSLE,Taxes on production and imports less subsidies,-36.4,6
+6,A,2023,2023,GSLE,Compensation of employees,132.0,6
+6,A,2023,2023,GSLE,Government enterprises,161.0,6
+6,A,2023,2023,GSLG,Gross operating surplus,303.3,6
+6,A,2023,2023,GSLG,Compensation of employees,1642.0,6
+6,A,2023,2023,GSLG,General government,1945.3,6
+6,A,2023,2023,HS,Taxes on production and imports less subsidies,319.3,6
+6,A,2023,2023,HS,Gross operating surplus,2295.5,6
+6,A,2023,2023,HS,Compensation of employees,26.0,6
+6,A,2023,2023,HS,Housing,2640.9,6
+6,A,2023,2023,ICT,Taxes on production and imports less subsidies,75.9,6
+6,A,2023,2023,ICT,Gross operating surplus,877.6,6
+6,A,2023,2023,ICT,Information-communications-technology-producing industries <sup>3</sup>,1950.7,6
+6,A,2023,2023,ICT,Compensation of employees,997.2,6
+6,A,2023,2023,ORE,Gross operating surplus,626.5,6
+6,A,2023,2023,ORE,Other real estate,806.3,6
+6,A,2023,2023,ORE,Compensation of employees,138.5,6
+6,A,2023,2023,ORE,Taxes on production and imports less subsidies,41.3,6
+6,A,2023,2023,PGOOD,Gross operating surplus,2331.5,6
+6,A,2023,2023,PGOOD,Private goods-producing industries <sup>1</sup>,4746.9,6
+6,A,2023,2023,PGOOD,Compensation of employees,2227.7,6
+6,A,2023,2023,PGOOD,Taxes on production and imports less subsidies,187.7,6
+6,A,2023,2023,PROF,Compensation of employees,2590.7,6
+6,A,2023,2023,PROF,Professional and business services,3611.7,6
+6,A,2023,2023,PROF,Gross operating surplus,927.9,6
+6,A,2023,2023,PROF,Taxes on production and imports less subsidies,93.1,6
+6,A,2023,2023,PSERV,Taxes on production and imports less subsidies,1650.5,6
+6,A,2023,2023,PSERV,Compensation of employees,9572.9,6
+6,A,2023,2023,PSERV,Private services-producing industries <sup>2</sup>,19868.7,6
+6,A,2023,2023,PSERV,Gross operating surplus,8645.2,6
+6,A,2023,2023,PVT,Gross operating surplus,10976.8,6
+6,A,2023,2023,PVT,Taxes on production and imports less subsidies,1838.2,6
+6,A,2023,2023,PVT,Compensation of employees,11800.6,6
+6,A,2023,2023,PVT,Private industries,24615.6,6
